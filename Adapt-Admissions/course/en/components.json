@@ -1,0 +1,3122 @@
+[
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem Solving 101",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b11dc2dafed0cf8c80c3f",
+    "_parentId": "622b100c2dafed0cf8c80c3a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/Pu4cTUjkX5U",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read what is being said",
+      "inlineTranscriptCloseButton": "Hide the text",
+      "inlineTranscriptBody": "<p><strong>Introduction</strong></p><p>Welcome! This video is all about problem solving 101!</p><p>We’ll discuss how to approach a problem and take a look at how we can apply structured thinking to solve a problem that contains visual, numerical, and verbal information.</p><p><strong>Problem Solving 101</strong></p><p>Problem solving involves finding solutions to problems like <em>What is the length of the hypotenuse of the right-angled triangle?,</em> <em>What will we have for dinner?,</em> or <em>How do we end poverty in all its forms everywhere?</em></p><p>You might already have the answer to the first problem at your fingertips – a step-by-step solution using the Pythagorean theorem or the fundamentals of trigonometry, if you happen to be familiar with the theorem or have solved one of these before. Well-structured problems typically have clear, repeatable step-by-step formulas that we can apply to a specific range of similar problems.</p><p>“What will we have for dinner?” may seem like a trivial problem, but it is only moderately structured because it has more than one acceptable strategy and solution. It involves subjective decisions, like dietary requirements or personal preferences, and each of us will use a different strategy and find a unique solution.</p><p>“How do we end poverty in all its forms everywhere?”, as per the United Nations' Sustainable Development Goals, is an immense and overwhelming problem. It is ill-structured because, to solve this problem, we need to understand what poverty looks like for different people. It is subjective, and the solution must depend on multiple perspectives. It has no single “correct” answer.</p><p>Solving problems, whether they’re well, moderately, or ill-structured, isn’t just about the ability to solve the problem. It’s a mindset. It’s about thinking like a problem solver. Although everyone thinks differently and there is no universal right way to solve a problem, we can still apply a process that will aid us in approaching problem solving.</p><p><strong>How to Approach a Problem</strong></p><p>Consider our previous well-structured question on the length of the hypotenuse. In solving problems like these, we often inherently know how to get to a solution. It’s a problem that we’ve seen and solved before.</p><p>But what if it’s a well-structured problem that we’ve not seen or solved before? Or what if it’s a more complex problem that is moderately or ill-structured? We need some kind of approach to help in solving these problems.</p><p>First, we should identify and understand the nature of the problem. This will help us determine if it is indeed a well-structured problem with a single correct answer or not. We can also identify if we can relate this to a problem we’ve solved before.</p><p>Secondly, we simplify the task by breaking the problem down into its fundamental parts. In this problem, there is a relationship between the hypotenuse and the lengths of sides AB and AC.</p><p>Third, we organise the available information and determine if we missed anything in the previous two steps. From the Pythagorean theorem, we know that the square of the hypotenuse is equal to the sum of the squares of the two sides.</p><p>Finally, we solve each individual part and combine them to get to a solution!</p><p><strong>Let's Solve!</strong></p><p>Let’s solve a well-structured problem on social media that we haven’t seen or solved before using this approach.</p><p>If the total Facebook page likes are 9 968 and the Instagram followers are 13 699, where 7.4% and 12.5% of them are from Kenya respectively, how many women from Kenya between the ages of 25 and 34 can we estimate are subscribed in total?</p><p>As a first step, we identify that although it is a well-structured problem, we are dealing with visual, numerical, and verbal information. The visual information provides us with the social media likes and followers as percentages by age and gender, as well as the percentage of total likes and followers represented by this graph. We also have specific constraints in the verbal information.</p><p>In the second step, we break down the problem into its fundamental parts by first only considering the verbal information. We identify more numerical values, which are the two totals of page likes and followers and two relating percentages. We also find three constraints in the problem: only <em>women,</em> the <em>25 to 34</em> age group, and from <em>Kenya</em>.</p><p>In the third step, we relate what we’ve found in step two to the visual information and sensibly rearrange that. We identify all the columns related only to women in the 25 to 34 age group. We now have all the missing pieces.</p><p>In the fourth step, we calculate each part. We can first calculate the number of subscribers for each platform by multiplying the total number of each with the percentage that is from Kenya.</p><p>To find the number of women between the ages of 25 and 34, we now multiply the number of subscribers from Kenya with the percentages we found in the visual information. We find that 112.86 and 222.61 women from Kenya between the ages of 25 and 34 are subscribed to Facebook and Instagram respectively.</p><p>Finally, we take the sum of the two values and round it to the nearest integer. We have calculated that 335 of the total subscribers are women between the ages of 25 and 34 from Kenya.</p><p>By following this process, we have managed to simplify and solve our problem!</p><p><strong>Problem Solving in The Real World</strong></p><p>Both our hypotenuse and social media problems were well-structured or “classroom” problems. We were told exactly what to solve, we didn’t have any unknown variables, and we knew the problems had distinctly correct answers because someone already knew the answer!</p><p>However, more “real-world” problems like “What will we have for dinner?”, or even more so, “How do we end poverty in all its forms everywhere?” have more than one solution. They’re messy! Very often, nobody can even agree on what the problem really is, or we might not fully understand the problem. There are also many unknown but related variables, and often, it’s practically impossible to know if the problem has been solved.</p><p>As a result, we must know how to approach problems and, in conjunction, know of the many different ways in which to solve more complex problems. We can use various problem-solving frameworks and tools such as the three-step understand, find, and implement framework, EGAD, or design thinking. We’ll learn more about these later.</p><p><strong>Outro</strong></p><p>Now that we’ve seen a simple approach to problem solving, see if you can apply it to solving numerical, visual, and verbal problems of varying complexity on your own.</p><p>All the best, and see you in the next one!</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "General on goals",
+    "displayTitle": "",
+    "body": "<p>The outcomes of one goal will always affect the outcomes of others. How can we be sure? Because the indicators associated with each goal’s targets are measurable parameters. Very often the targets of one goal will be related to indicators from other goals.</p><p>Although the narratives surrounding the goals are extremely complex, we can break down each target and indicator into its different parts to better understand what influences the goals and our progress toward a better and more sustainable future!</p>",
+    "_id": "622b13f42dafed0cf8c80c4b",
+    "_parentId": "622b13ef2dafed0cf8c80c4a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Goals Overview Visual",
+    "displayTitle": "",
+    "body": "<p>Below, we’ve included examples of 2021 SDG scores for each of Kenya, Nigeria, and South Africa. Each goal contributes equally as much as or shares equal weight with, the other goals. This means countries with great scores on one or two goals, but generally lower scores on the rest, won’t do as well as a country with consistently higher scores across all goals - despite having lower maximum individual scores.</p><p>This is illustrated well for Nigeria, whose scores goals 12 and 13 are the highest of the three, and yet because of consistently low scores across the other 15 goals, it scores the lowest overall. South Africa, despite a 0/10 for goal 10, has consistently good scores across the remaining 16 goals and sees the highest overall score as a result - despite no outstandingly high individual scores.</p>",
+    "_id": "622b141b2dafed0cf8c80c4d",
+    "_parentId": "622b140c2dafed0cf8c80c4c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "2021 SDG Scores for three African countries.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/732d4b6249cd3437e0d4882f6ba5b4a6922d52f5.png",
+      "small": "course/en/assets/e4cb04bbcd766ab0985546984f684a0a37a82189.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "This case study",
+    "displayTitle": "",
+    "body": "<p>For this case study, we will only focus on the first goal: End poverty in all its forms everywhere.</p>",
+    "_id": "622b14782dafed0cf8c80c52",
+    "_parentId": "622b146e2dafed0cf8c80c51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Explore Goal 1",
+    "displayTitle": "",
+    "body": "<p>Let’s explore some of the causal relationships found in the first goal.</p>",
+    "_id": "622b15302dafed0cf8c80c59",
+    "_parentId": "622b152b2dafed0cf8c80c58",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b15be2dafed0cf8c80c5b",
+    "_parentId": "623c12d47b682005edc9c524",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Example relationship diagram showing the interaction between indicators.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/026ef9eb42bc86f5ea1b0c49849a8f280bf465e8.gif",
+      "small": "course/en/assets/026ef9eb42bc86f5ea1b0c49849a8f280bf465e8.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>If we achieve target 10.1 (reduce income inequalities) by, for example, increasing the income of minority groups, more people will live above the national and international poverty lines. There are, therefore, irrefutable causal relationships between the different goals, their targets, and their indicators.</p><p>The progress and development of society require all people to consider the social, economic, and environmental impact of their decisions. The aim of the goals is to put human development before economic development by focussing on all people, their choices, and opportunities.</p>",
+    "_id": "622b16832dafed0cf8c80c61",
+    "_parentId": "622b163c2dafed0cf8c80c5f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b1de52dafed0cf8c80c66",
+    "_parentId": "623c144c7b682005edc9c531",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "The global Multidimensional Poverty Index (MPI) measures, dimensions, indicators, and weights.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fdc701609d707aaad37f810ba66e6ae1d807177d.gif",
+      "small": "course/en/assets/fdc701609d707aaad37f810ba66e6ae1d807177d.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>While the <a href=\"https://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">United Nations Human Development Report</a> proposed a Multidimensional Poverty Index (MPI) with only three dimensions weighing one third each toward the index, the <a href=\"http://www.statssa.gov.za/publications/Report-03-10-08/Report-03-10-082014.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">South African Multidimensional Poverty Index</a> (SAMPI) considers four dimensions weighing one quarter each.</p>",
+    "_id": "622b1e9e2dafed0cf8c80c6b",
+    "_parentId": "622b1e8d2dafed0cf8c80c6a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "The South African Multidimensional Poverty Index (SAMPI).",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d70a2ab3e6ce08b71cb572d405e65cdac9471b71.png",
+      "small": "course/en/assets/d70a2ab3e6ce08b71cb572d405e65cdac9471b71.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b1fc22dafed0cf8c80c70",
+    "_parentId": "623c14bb7b682005edc9c536",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "A diagram showing the relationships of indicator 1.3.1.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f2a5cc908f83f01a54a808a90a1c7ad9fe0b2710.gif",
+      "small": "course/en/assets/f2a5cc908f83f01a54a808a90a1c7ad9fe0b2710.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Social protection</strong> is a key theme in this target. Therefore, it is important to understand how the different types of social protection are categorised to be able to calculate the various parameters related to the target’s indicator.</p><p>Social protection, often also called social security, is the prevention and management of events that could adversely affect people’s wellbeing. The broad category “social protection” includes insurance such as medical insurance, pension funds, injury compensation, and unemployment benefits - these are called <strong>contributory</strong> social protection because most often individuals contribute monthly payments to these insurances in order to be protected in future adverse events.</p><p>Social protection, however, also includes <strong>non-contributory</strong> social protection such as social assistance in the form of public programmes and subsidies. It is non-contributory because governments, rather than individuals, contribute or spend money on these types of protection.</p>",
+    "_id": "622b201d2dafed0cf8c80c75",
+    "_parentId": "622b20162dafed0cf8c80c74",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>For more clarification on these concepts, read more <a href=\"https://gsdrc.org/topic-guides/social-protection/types-of-social-protection/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+    "_id": "622b20562dafed0cf8c80c77",
+    "_parentId": "622b20522dafed0cf8c80c76",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "The different types of social protection often considered by the United Nations and the International Labour Organisation.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c501fcbc8badaebbd6d0f6548da9467ecf6ddd2f.gif",
+      "small": "course/en/assets/c501fcbc8badaebbd6d0f6548da9467ecf6ddd2f.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Vulnerability, and how people are classified as <strong>vulnerable</strong>, is another interesting parameter in this indicator because it depends on parameters such as age and whether a person has contributory, non-contributory, or no benefits at all.</p>",
+    "_id": "622b20ae2dafed0cf8c80c7c",
+    "_parentId": "622b20a82dafed0cf8c80c7b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>If you want more information on any of these indicators and how they are calculated, you can search for each individual indicator&nbsp;<a href=\"https://unstats.un.org/sdgs/metadata/\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p>",
+    "_id": "622b23042dafed0cf8c80c7e",
+    "_parentId": "623c15257b682005edc9c53b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "A diagram showing the relationships of indicator 1.4.1.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/99d55ef49d36d20ede748325a366b810cb72fd8f.png",
+      "small": "course/en/assets/99d55ef49d36d20ede748325a366b810cb72fd8f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>We can rewrite these ladders into trees in order to better understand the parameters that influence the outcome, i.e., in which group a person or household is classified. Below is an example of the the waste collection ladder, mapped into a tree.</p>",
+    "_id": "622b23912dafed0cf8c80c88",
+    "_parentId": "622b238d2dafed0cf8c80c87",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "A tree exploring the classification of Municipal Solid Waste (MSW) collection services.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3538b709dedee6346b1a75c5821c295b104556bb.gif",
+      "small": "course/en/assets/3538b709dedee6346b1a75c5821c295b104556bb.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b23ca2dafed0cf8c80c8d",
+    "_parentId": "622b23c02dafed0cf8c80c8c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/791b602588aff2ed9fa752a51c218416a26faf1d.png",
+      "small": "course/en/assets/b819ec5becb8d070c5f38487fc6661dbe01a0a59.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b24382dafed0cf8c80c92",
+    "_parentId": "623c15947b682005edc9c540",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "A demonstration of the links between the Sendai framework targets and the Sustainable Development Goals (SDGs).",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c01b527bd9e37c9ab47075d8847e80a669bf8aa1.gif",
+      "small": "course/en/assets/c01b527bd9e37c9ab47075d8847e80a669bf8aa1.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In other words, to understand the causal relationships between these targets, each target has been broken down into its fundamental concept and recombined into an actionable framework!</p>",
+    "_id": "622b24752dafed0cf8c80c97",
+    "_parentId": "622b24642dafed0cf8c80c96",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem Solving - What's next?",
+    "displayTitle": "",
+    "body": "<p>The path to being a great problem solver is not linear and not all problem solving strategies and frameworks are as effective for all thinkers. So, in addition to practising different problem solving strategies, remember to:</p><ul><li><strong>be aware</strong> of your cognitive processes and strategies - try to define what your (most effective) processes are in order to apply them when faced with more complex problems;</li><li><strong>self-reflect</strong> on your processes and strategies, and HOW effective (or not) a problem solving strategy or framework worked when you solved a problem; and</li><li><strong>practice</strong> your critical thinking, metacognition, and problem solving. There are many basic logic and reasoning resources online that can help you practice.&nbsp;Try to solve daily tasks by applying some of these skills;&nbsp;solve programming challenges, or take on a hackathon!</li></ul><p>However, we also need a&nbsp;<strong>structured, transferable</strong>, and&nbsp;<strong>logical</strong>&nbsp;approach to be effective problem solvers. The MECE principle and logic trees can help us in determine all the possible causes - and possible solutions- of a problem.</p>",
+    "_id": "622b25992dafed0cf8c80c9d",
+    "_parentId": "622b25942dafed0cf8c80c9c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MECE and Logic Trees Pt. 1",
+    "displayTitle": "MECE and Logic Trees Pt. 1",
+    "body": "<p>In this video, we’ll look into how logic trees and the MECE (or mutually exclusive collectively exhaustive) principle can help us to better conceptualise a problem.</p>",
+    "_id": "622b25e52dafed0cf8c80ca1",
+    "_parentId": "622b25ce2dafed0cf8c80ca0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/Pu4cTUjkX5U",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read what is being said",
+      "inlineTranscriptCloseButton": "Hide the text",
+      "inlineTranscriptBody": "<p><strong>Introduction</strong></p><p>Welcome! In this video, we’ll look into how logic trees and the MECE (or mutually exclusive collectively exhaustive) principle can help us to better conceptualise a problem.</p><p><strong>Solving a Problem</strong></p><p>There are three core steps in problem solving. One, <em>understand the problem</em>. Two, <em>find the facts</em>. And three, <em>implement and review</em> the solution.&nbsp;</p><p>Understanding the problem means that we understand both the <em>context and desired outcomes</em>, and we can <em>define the problem</em>.&nbsp;‘Find the facts’ is our information-gathering step, where we <em>list the potential options or solutions</em> and <em>consider the pros and cons</em> of these options. Finally, we <em>select the best solution</em>, implement it, and thoroughly <em>test and review</em> its implementation.</p><p>To be effective problem solvers, we need to be <em>coherent and comprehensive</em> when considering our options.</p><p><strong>Solving a Problem - Example</strong></p><p>Consider the relatively simple problem of “What will we have for dinner tonight?”. We could decide to get takeout and have it delivered to our door but we don’t have enough money. We could decide to cook a meal but we might not have all the ingredients, and none of us has time to go to the store.</p><p>Now, we haven’t even decided what we’ll eat, considered if we have the correct equipment, or how we’ll get to the restaurant or store.</p><p>It’s quite clear that even simple problems can have many solutions. But how can we be coherent and comprehensive, and ensure we have not missed any considerations? Enter logic trees.</p><p><strong>What is a Logic Tree?</strong></p><p>A logic tree is a tool to systematically <em>visualise</em> all the possible problems, solutions, or hypotheses to a problem. It helps us in both <em>understanding the problem</em> and <em>finding all the facts</em> to solve the problem.&nbsp;Logic trees have multiple layers and any number of branches.</p><p><strong>Different Types of Logic Trees</strong></p><p>Logic trees are known by many names. <em>WHY</em> trees are <em>diagnostic</em> trees. They help us search for all the possible <em>causes of the problem</em> by breaking down complex problems into distinct, <em>smaller problems</em>. They are called WHY trees because each layer tries to answer the “WHY” of the previous one.</p><p><em>HOW</em> trees are <em>decision</em> trees. They help us search for all the possible <em>solutions</em> to the problem or <em>facts</em> about the problem.</p><p>Both WHY and HOW trees may raise questions, including <em>hypotheses</em>. The hypothesis tree is used to break down a hypothesis into all of the statements that need to be true to support the main hypothesis.</p><p>Consider the previous question about tonight’s dinner. The problem statement might be, “We don’t have a meal for tonight because nobody cooked”. If we are drafting a WHY tree, we may ask, “But why has nobody cooked?”. Some reasons may include, “We don’t have time to cook,” or not enough ingredients, electricity, or the right appliances.</p><p>We may ask WHY again for all of these reasons, for example, “Why don’t we have enough ingredients?” Because we don’t have enough money, or transport, or time to go to the store. We ask WHY until we’ve found the root cause of the problem.</p><p>Once we have the root cause, we can create a new tree to solve for the root cause. Or we can simply have a logic tree that includes both problems and solutions.</p><p>We can use a HOW tree to map out all our possible solutions. If the problem to solve is, “What will we have for dinner?”, then we have the option to stay in or go out. HOW can we stay in and have dinner? We can order in, reheat food, or make food.</p><p>On the other hand, HOW can we go out and have dinner? We can go to someone else’s house or a restaurant. If we’ve decided to make food, we ask HOW and realise we need to consider the available ingredients. Do we have all ingredients, only some, or not any? If we don’t have any ingredients, can we get ingredients or not? With each additional layer, we try to answer the HOW question with more than one option.</p><p>However, a logic tree whether WHY or HOW doesn’t ensure that we’re being comprehensive. We cannot ensure that we have considered everything at least once. Enter MECE.</p><p><strong>What is MECE?</strong></p><p>MECE, or <em>mutually exclusive collectively exhaustive</em>, is a grouping principle that helps us solve problems coherently and comprehensively. It ensures that all possible answers are considered exactly once.</p><p>If two categories <em>overlap</em>, they are not mutually exclusive because some options may fit into more than one category. In other words, for two solutions, or problems to be <em>mutually exclusive</em>, there can be no overlap between them.</p><p>To be MECE, we also need to ensure that nothing is <em>left out</em>, otherwise, we’re not being exhaustive. Therefore, the <em>options</em> available to us need to cover all possible causes of a problem to be <em>collectively exhaustive</em>.</p><p>Applying the MECE principle to logic trees minimises <em>ambiguity</em>. We can ensure that two branches do not overlap or are accounted for more than once, but also that we don’t exclude anything.</p><p><strong>Being MECE - Example</strong></p><p>Let’s consider an example. After mapping our solutions in a HOW tree, we’ve decided that we will take our bicycle to buy ingredients for dinner. Approaching an intersection (Point A) we realise that we have two options. We can go straight or turn right, but we cannot do both at the same time.</p><p>These two options at Point A <em>do not overlap</em>. We can choose only a single option at that specific point and, therefore, the options are <em>ME</em>, or mutually exclusive.</p><p>However, we have not considered all options at Point A. We can stop, go straight forward, reverse, switch to the other side of the road, change general direction, turn back, take the right road, or even completely veer off the road! These are all options to be considered, although not all ideal when you’re riding a bicycle.</p><p>The options at Point A now cover <em>all</em> possible choices because our <em>options have no gaps</em>. The options are therefore <em>CE</em>, or collectively exhaustive, because all possible options have been included.</p><p>For us to be MECE in a logic tree regarding our options at Point A, we would only have to rearrange our options. At Point A, we can stop or go. If we decide to go, we can either go straight or change direction. If we do go straight, we can either go straight forward, reverse, or switch to the other side. If we decide to change direction, we could either turn back, take the right road, or veer off the road. We have now considered all possible options at Point A.</p><p><strong>Outro</strong></p><p>That's it for part one of this two-part video series on MECE. All the best, and we'll see you right away!</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MECE and Logic Trees Pt.2",
+    "displayTitle": "MECE and Logic Trees Pt.2",
+    "body": "<p>In this second part, we’ll look at different techniques to ensure that our options are MECE and walk through an example of a MECE logic tree.</p>",
+    "_id": "622b26792dafed0cf8c80ca3",
+    "_parentId": "622b26762dafed0cf8c80ca2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/Pu4cTUjkX5U",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read what is being said",
+      "inlineTranscriptCloseButton": "Hide the text",
+      "inlineTranscriptBody": "<p><strong>Introduction</strong></p><p>Welcome back! In this second part, we’ll look at different techniques to ensure that our options are MECE and walk through an example of a MECE logic tree.</p><p><strong>The Five Ways to be MECE</strong></p><p>There are<em> five techniques</em> to ensure that a layer in a logic tree is MECE, and we can use a different technique on each layer or branch to ensure that we use the most appropriate approach.</p><p>The first technique, <em>opposite words</em>, is the dividing of problems or solutions into opposite complementary parts. The second, <em>segmentations</em>, is the dividing of problems or solutions into their visible parts.&nbsp;The third technique, <em>process structures</em>, is a breakdown of the underlying process of the problem or solution. The fourth, <em>algebra structures</em>, are Math equations derived from variable drivers of the problem or solution. Finally, the fifth technique, <em>conceptual frameworks</em>, is the qualitative categorisation of individual parts of a problem or solution.</p><p>Not all of these structuring techniques are equally effective. Some are harder to apply well, while some are more insightful than others. While opposite words is the least insightful, it is easy and quick to apply. Segmentations are slightly more insightful and difficult.&nbsp;The three core techniques (process structures, algebra structures, and conceptual frameworks) are insightful enough to be used on their own.</p><p>Let’s see how we can map options to our question, “What will we have for dinner?” using these five techniques.</p><p><em>Opposite words</em> branches are quick and easy to formulate. They provide us with options to our problem, such as to stay in or go out for dinner. If we decide to make a meal at home, we could consider if we have or don’t have time to cook. Can we get ingredients, or not? Do we have electricity, or not? All of these branches are simply two opposite complementary parts to a decision.</p><p>While still relatively simple, <em>segmentations</em> provide a greater level of detail to our options. Relating to the question, “What will we have for dinner?”, we could ask in one branch, “How much do we need to eat?” with the options being more, less, or the same to decide what, how, and where we will have dinner. We could also ask “Who needs food?” if we decide to go to a restaurant, to determine who will pay and how much we should budget for the meal.</p><p><em>Process structures</em> are useful when the problem or decision has a clear underlying process. Buying ingredients could have the sequential process of going to the store, picking food items, purchasing, and returning home. Each of these steps is a specific branch that leads to various other branches. Similarly, when ordering takeout, we have a few different process steps that could lead to other decisions.</p><p><em>Algebra structures</em>, on the other hand, are useful for problems or decisions with quantifiable metrics. We could use this structure to calculate the total cost of food or the total cost per meal while considering other options that could influence the overall decision.</p><p>Although <em>conceptual framework </em>structures are hard to apply well, they are very versatile and provide insight into more abstract decisions. Some examples of this structure include the choice of food or ingredients based on the sensory properties of food pleasure or the calorie requirement of an individual.</p><p>It is often easier to first create the many structures relating to a problem before attempting to create a logic tree.</p><p><strong>MECE Logic Tree - Example</strong></p><p>If our problem statement is “What will we have for dinner?” with no additional information, we could start with a simple opposite words structure: do we stay in or go out?&nbsp;However, we could start our tree with any structure we prefer. It helps to review and switch out a structure with another, until we find the most suitable one.</p><p>If we do decide to stay in, we can use segmentations to map out our options. Do we make food, reheat food, or do we order in?&nbsp;Let’s make food! Again, using segmentations, we have three choices. We already have all the necessary ingredients, we only have some, or we don’t have any.</p><p>Once more, we apply the simple opposite words structures to determine if we can or cannot get ingredients to cook our meal.&nbsp;We have already determined that to get ingredients from a store, we need to follow a certain process, each step having multiple options.</p><p>Considering the step where we need to pick food or ingredient items at the store, we could apply an algebra structure if cost is a concern.&nbsp;However, if we’re not concerned with cost but rather a picky eater, we could replace the algebra structure with a conceptual framework regarding sensory properties. Remember, each of these topics within the conceptual framework may branch out to include multiple other decisions.</p><p><strong>(Back to) Solving a Problem</strong></p><p>Now that we’ve collected many options, problems, facts, and decisions in our MECE logic tree, and we’ve seen how quickly a simple problem can blow up, you might be wondering, “Where does this all end?”</p><p>In many problems, such as the stove refusing to turn on, there might be one, maybe two, correct options. In problems such as “What will we have for dinner?”, there is no right or wrong. We would have to self-evaluate if our final decision or solution is viable and practical.</p><p>So, when solving a problem, self-evaluate, iterate, change your mind – again… go back, and repeat, until you have a viable solution.</p><p><strong>Outro</strong></p><p>As a fun exercise, download the <em>What will we have for dinner tonight?</em> tree that we have created in the accompanying material for this video, and work through the options to see which solution is most suitable for your next dinner.</p><p>All the best, and happy problem solving!</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>We can write step-by-step descriptions for an algorithm using short but descriptive phrases called&nbsp;<strong>pseudocode</strong>.</p><p>Have a look at the adjacent statement and how we can increase the readability thereof, while mirroring a computer algorithm, through pseudocode.</p>",
+    "_id": "622b2a722dafed0cf8c80cc3",
+    "_parentId": "622b2a0c2dafed0cf8c80cbe",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b2a9d2dafed0cf8c80cc4",
+    "_parentId": "622b2a0c2dafed0cf8c80cbe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/78bf1c3f6c093741d46274c4e3c1251757dfa7f7.gif",
+      "small": "course/en/assets/78bf1c3f6c093741d46274c4e3c1251757dfa7f7.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622b2bd32dafed0cf8c80cd5",
+    "_parentId": "622b2bba2dafed0cf8c80cd4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "An algorithm represented by a logic tree, flowchart, and pseudocode.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/714dd6ff701c1d16660b4358a60faa21e7bed693.gif",
+      "small": "course/en/assets/8c2742c904619a7fc0a2312b9fa49505a0dc0b41.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In the same way, we can decide that we will focus on the second branch, where the condition is related to being an <span style=\"background-color:#e7e9eb\">adult</span>. Our condition will now be <span style=\"background-color:#e7e9eb\">Age &gt; 14</span>. If the person is older than 14, then the conditional statement is <em>True</em> and the output will be <span style=\"background-color:#e7e9eb\">adult</span>. Conversely, the statement will be <em>False</em> and the output will be <span style=\"background-color:#e7e9eb\">child</span>.</p><p>We also have two options for pseudocode; <span style=\"background-color:#e7e9eb\">adult</span> is either <em>True</em> or <em>False</em>, or&nbsp;<span style=\"background-color:#e7e9eb\">life stage</span> is either adult or child.</p>",
+    "_id": "622b2c232dafed0cf8c80cda",
+    "_parentId": "622b2c142dafed0cf8c80cd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "See if you can make the connection between the statement, logic tree, flowchart, and pseudocode.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/534b54edb587efa45346cf14aaba79a8f8e736be.gif",
+      "small": "course/en/assets/3cdf0d411be3695c8172f251d42f2d04e04fbe62.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In this example, the if statement consists of one condition and two outcomes. However, what if we add an additional condition?</p><p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons older than 14 but younger than 65 are in the <em>adult</em> life stage.</strong></p><p>This statement now only considers if a person is classified as an adult (<em>True</em>) or not (<em>False</em>). It infers, however, that persons of age 14 and younger, and of age 65 and older are categorised into different life stages, as visualised in the logic tree below.</p><p>This statement can still be represented by a single if statement, however, we use the boolean operator <span style=\"background-color:#e7e9eb\">AND</span> to consider both conditions in our pseudocode.</p>",
+    "_id": "622b2c602dafed0cf8c80cdf",
+    "_parentId": "622b2c4f2dafed0cf8c80cde",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Compare how the logic tree, flowchart, and pseudocode change when and additional condition is added to the statement.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/84a8f420c03a542b844001c25168efb43d480cc2.gif",
+      "small": "course/en/assets/490098617342a638cf04a558be122e5e3cd3bc68.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "If-Else Statement Example pt. 2",
+    "displayTitle": "",
+    "body": "<p>Although we used the AND boolean operator in the previous example to classify the adult life stage, we now need a <em>second conditional statement</em> because we also classify the life stage before and after&nbsp;<span style=\"background-color:in the previous example\">adulthood, i.e., </span><span style=\"background-color:#e7e9eb\">child</span> and <span style=\"background-color:#e7e9eb\">pensioner</span><span style=\"background-color:in the previous example\">,</span>&nbsp;in this example.</p>",
+    "_id": "622b2ce92dafed0cf8c80cea",
+    "_parentId": "622b2cdc2dafed0cf8c80ce9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Compare the statement, logic tree, flowchart, and pseudocode of this example to the previous example with only a single condition.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/aeb4c1d1da3c93bd0ad96fb119f07b2c421f9a3f.gif",
+      "small": "course/en/assets/51448ee12ef4f46a2dcd32b715253a4c24fa8737.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Consider the following statement with the additional constraint that only <strong>human</strong> individuals can be classified into these life stages:</p><p style=\"margin-left:40px\"><strong>Human persons of the age 14 and under are in the <em>child</em> life stage, while human persons older than 14 but younger than 65 are in the <em>adult</em> life stage, and human persons of the age 65 and older are in the <em>pensioner</em> life stage.</strong></p><p>Our logic tree now has two layers; the first layer only has two branches, while the second layer under human still has three, as in our previous example. If <span style=\"background-color:#e7e9eb\">Human</span> is <em>False</em>, then the output can only be <span style=\"background-color:#e7e9eb\">None</span>. However, if <span style=\"background-color:#e7e9eb\">human</span> is <em>True</em>, the life stage can still be either <span style=\"background-color:#e7e9eb\">child</span>, <span style=\"background-color:#e7e9eb\">adult</span>, or <span style=\"background-color:#e7e9eb\">pensioner</span>, depending on the age condition.</p>",
+    "_id": "622b2d772dafed0cf8c80cf4",
+    "_parentId": "622b2d6a2dafed0cf8c80cf3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Consider the increased complexity of the flowchart, and pseudocode, as a result of the additional layer in the logic tree.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2c7dafbb7355d89b282ffe7c2c334ebbc3a0ea30.gif",
+      "small": "course/en/assets/1c0f4477035267dec9b2f13e4b6647cf0081918f.gif",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "",
+    "body": "<p>We’ve had a look at if, if-else, and nested if conditional statements, and how we can visualise them in a logic tree and flowchart, and convert them into pseudocode. However, there are other specialised conditional statements such as while, for&nbsp;and switch statements that are useful when the conditions representing our decisions become more complex.</p>",
+    "_id": "622b2dba2dafed0cf8c80cfb",
+    "_parentId": "622b2daf2dafed0cf8c80cfa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622ef0df80ed2f06a27c3796",
+    "_parentId": "622ef0d380ed2f06a27c3795",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d87e5a9842c4591a0f85209e4f5dabd90e8deb5e.png",
+      "small": "course/en/assets/d87e5a9842c4591a0f85209e4f5dabd90e8deb5e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The 17 SDGs",
+    "displayTitle": "",
+    "body": "<p>There are 17 goals relating to poverty, health, education, basic services, inequality, climate, peace, and partnership.</p>",
+    "_id": "622efb7380ed2f06a27c37b0",
+    "_parentId": "622efb6480ed2f06a27c37af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on any of the goals below to find out more.",
+    "_setCompletionOn": "allItems",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_columns": 6,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>The Global Goals</strong></p><p>The Sustainable Development Goals (SDGs)&nbsp;is a collection of 17 actionable global goals that&nbsp;represent the plan by the United Nations and world leaders to&nbsp;overcome the many challenges society is faced with. Find out more <a href=\"https://www.globalgoals.org/goals/\">here</a>.</p><p style=\"margin-left:40px\"><em>\"Big challenges need bold action to overcome them, and that is where the Global Goals come in.\"</em></p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/7e103f11a197ec5caeadf66a26fb274efc8a0969.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>End poverty in all its forms everywhere</strong></p><p>Although ending poverty is an act of justice rather than charity, nearly half of the world’s population still lives in poverty. Lack of access to food and clean water continues to kill thousands of people each year.</p><p>Ending poverty in all its forms is one of the greatest challenges faced by society because it is influenced by many factors, including geographical location, health, and education.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/8809d044e558c0e4f1593c9cc3e9ebb8403c4248.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>End hunger, achieve food security and improved nutrition and promote sustainable agriculture</strong></p><p>Not only is hunger one of the leading causes of death worldwide, but extreme hunger and malnutrition are also obstacles to economic and societal development for many countries.</p><p>The targets of goal 2 aim to promote greater access to nutritious food and the production thereof.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/308971cbccc73469b9e844e416dad8069dce638d.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Ensure healthy lives and promote well-being for all at all ages</strong></p><p>Despite the considerable development we have made as a society, a significant amount of&nbsp;money and resources is still being spent on treating preventable illnesses.</p><p>The good health and well-being goal aims to promote healthier lifestyles and more efficient preventative healthcare for everyone.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/cdce50f2f5e448896cc7b1159c79f42bf49093de.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</strong></p><p>Education is one of the most powerful drivers of prosperity and sustainable development. The targets of this goal not only promote free&nbsp;primary and secondary education but equal access to knowledge and higher education.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/acd582952270837f9b4a8f5cba8b5d92f220ee15.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Achieve gender equality and empower all women and girls</strong></p><p>Although the number of women in the labour market has increased substantially in the past few years, great inequalities are still observed in many areas of the world. Action is therefore required to eradicate inequality and promote equal rights for all.</p><p style=\"margin-left: 40px;\"><em>\"Gender bias is undermining our social fabric and devalues all of us.\"</em></p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/0b72fd564faa3dff03982a8116566fe9c35cdf0a.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Ensure availability and sustainable management of water and sanitation for all</strong></p><p>Due to changes in our climate, droughts are becoming more prevalent and water supplies are&nbsp;decreasing worldwide. This not only affects access to drinking water but also sanitation and hygiene which often results in unnecessary diseases and death.</p><p>In order to ensure greater access to water and sanitation, communities across the world need to assist each other in developing and managing water resources.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/d83745ebcf6e14e7456802a020d3b50d2f8252c9.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Ensure access to affordable, reliable, sustainable and modern energy for all</strong></p><p>Although more people have access to electricity today than ever before, our population - and the demand for affordable energy&nbsp;- continues to grow at a rate exceeding that of our energy resources and infrastructure.</p><p>Even with&nbsp;clean energy prices decreasing, we seem to be increasingly reliant on fossil fuels, despite their adverse effects on our climate and health.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/ff640ba17e030b315f4266a31e251fe6932294b3.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all</strong></p><p>The economy has a substantial influence on poverty, hunger, education, and employment. However, in order to promote sustainable economic growth, we as a society need to demand safe working conditions, equal pay, access to financial services, the employment of our youth, and the eradication of modern slavery and child labour.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/596e14ff8b871e6a7c5dbf514c356fb339133b00.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</strong></p><p>Infrastructure, innovation, and technological progress&nbsp;are key to economic growth and development. This includes promoting environmentally friendly and sustainable industries and the research thereof, access to financial services and markets, and promoting access to information, the internet, and other communication technologies.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/0c6df21979aa5d313bf3143a784f87f5775cefec.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Reduce inequality within and among countries</strong></p><p>In order to ensure continuous development and lasting prosperity, everyone - regardless of gender, race, ethnicity, religion, and economic status - should have equal opportunities, financial access, and mobility.</p><p>Global cooperation is required&nbsp;to ensure that discrimination is eradicated everywhere across all social, economic, and political domains.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/bd8fad9bf286a645d322e46f156ec46f6274a3ca.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Make cities and human settlements inclusive, safe, resilient and sustainable</strong></p><p>As a result of increasing populations, substantial investments are&nbsp;required to improve living conditions for everyone.</p><p>To ensure that&nbsp;people are safe and prosperous everywhere, we need&nbsp;affordable housing,&nbsp;more business opportunities, improved and inclusive access to public spaces, and greater resilience to disasters.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/095710321e2a0855c5fc301998404852cdcca6cc.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Ensure sustainable consumption and production patterns</strong></p><p>To achieve lasting economic and sustainable development, we urgently need to change the way in which we use our natural resources and produce and consume goods.</p><p>In order to meet this goal, the targets are aimed at reducing food waste, promoting greener consumption, and the management of natural resources.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/563f8a3e7e6506842a15758703c7168adcf2b828.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Take urgent action to combat climate change and its impacts</strong></p><p>Climate change poses an undeniable&nbsp;threat to our society and planet.&nbsp;Serious changes are required to overcome the consequences of human impact in recent centuries.</p><p>Climate action is not only about policies but about raising awareness, mitigating and adapting our ways, and planning for climate-related disasters.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/748c15d67db15b096b37298ea235b195d8e14cd8.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Conserve and sustainably use the oceans, seas and marine resources for sustainable development</strong></p><p>As civilisation's&nbsp;impact is changing the climate, so too are its effects observed in the&nbsp;oceans. Marine pollution, overfishing, seismic blasting, and global warming are contributing to the demise of our oceans and the creatures living in them.</p><p>Policies, research, and active restoration are required to save and conserve our oceans.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/016d82ad050991a12fb449e478b17553f1f3c759.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss</strong></p><p>Our planet's ecosystem, forests, rivers, mountains and all other natural habitats are also in danger. Land degradation, deforestation, and loss of natural habitat are all parts of our dying planet that require our intervention.</p><p>This goal's targets aim to ensure the conservation, protection, and&nbsp;restoration of the land, flora, and fauna.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/e305b843acd539f9f55dde4885564656583f4a5b.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels</strong></p><p>Economic and societal development cannot be a reality without stability, security, peace, and effective governance.</p><p>In order to meet this goal, we as a society need to strive for less violence, reduce illicit activities like organised crime and corruption, promote equal access to justice for all, and demand transparency and accountability.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/987d57938245f1d47ad9f882ed903893b1ee0bc8.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Strengthen the means of implementation and revitalize the global partnership for sustainable development</strong></p><p>Sustainable development can only be realised if we work together for a better future. This requires extensive global partnerships and cooperation between all.</p><p>These global partnerships are required to ensure that no one gets left behind.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/1a1ca9ce98acb162e941afb42d48dcaaedb62eb0.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Goal vs Target vs Indicator",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622f024280ed2f06a27c37da",
+    "_parentId": "622f021580ed2f06a27c37d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The goals are blueprints on several <em>broad</em> societal matters which aim to achieve a better and more sustainable future for all.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0d29d263d955fb21b077ef15d99d7d209b8dfd87.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What are sustainable development goals?"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The targets are specific <em>resolutions</em> related to individual goals. They make the SDGs more actionable!</p>",
+        "_graphic": {
+          "src": "course/en/assets/d29f76c701a1e75c4dadc5bfc144e1ec0bacac1d.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What is an SDG target?"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Each target has at least one indicator which is used to <em>measure</em> the progress of individual countries and the world toward each target.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a4de2db2acf29b5e538900f8570bf98662e7332a.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What is an SDG indicator?"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MECE and logic tree overview",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622f111780ed2f06a27c37e8",
+    "_parentId": "622f10c380ed2f06a27c37e7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p><strong>MECE</strong> is a grouping principle that helps us solve problems in a coherent and comprehensive way!</p>",
+        "_graphic": {
+          "src": "course/en/assets/ce6ce9a02ff3103a2a33a48f9763c99b00b92ec1.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What is MECE?"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>A <strong>logic tree</strong> is a tool to systematically visualise all the possible problems, solutions, or hypotheses.</p>",
+        "_graphic": {
+          "src": "course/en/assets/32e8a1ba3f5ca8637cdbde1b416dc7a5358ebd71.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "What is a logic tree?"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>After completing this section, work through the options in the additional resource. See if you can add any additional MECE structures and find which option is most suitable for your next dinner.</p>",
+        "_graphic": {
+          "src": "course/en/assets/af1e81e863a629050108ee354108b2b563c7d00f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Try on your own"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Programmatic Thinking",
+    "displayTitle": "",
+    "body": "",
+    "_id": "622f291780ed2f06a27c37f2",
+    "_parentId": "622f290580ed2f06a27c37f1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8bc3a2d965ab5119e16d4d54f212801774a509e0.png",
+      "small": "course/en/assets/8bc3a2d965ab5119e16d4d54f212801774a509e0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Programmatic Thinking Tools",
+    "displayTitle": "Programmatic Thinking Tools",
+    "body": "<p>We need certain \"tools\" in order to apply programmatic thinking:</p>",
+    "_id": "622f2b7180ed2f06a27c37fa",
+    "_parentId": "622f2b4a80ed2f06a27c37f9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_columns": 4,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>An&nbsp;<strong>algorithm</strong>&nbsp;is a specific procedure to solve a problem in terms of the required actions and the order in which these actions are executed. In order words, an algorithm is the sequence of steps required to solve a problem.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/9f6f699b379bf0848ada3137692b33bd8cc07261.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/7873ff00e4eb61d99b04a999dc5e43c6191c9d86.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Conditional statements allow us to represent decision making by setting specific conditions.</p><p>A statement of “If x, then y” is a conditional statement, where “x” is the hypothesis and “y” the conclusion.</p><p>In addition to this&nbsp;<strong>if statement</strong>, we can also have&nbsp;<strong>if-else</strong>,&nbsp;<strong>else-if</strong>, and&nbsp;<strong>nested if</strong>&nbsp;statements in order to make decisions.</p><p>An important part of formal logic is understanding how to use and interpret conditional statements. Furthermore, conditional statements play a critical role in solving problems and writing good code.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/99ed5b00e75ae2f6e46f4ba9744c9930e020a701.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/2efeaf1b75cc2d2242600a6dc97e6160c74131d1.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>We often use flowcharts (a.k.a. a flow diagram) to visually represent the&nbsp;<em>flow of control</em>&nbsp;based on our conditional statements. We use different symbols in a flowchart to represent different actions or steps in a process.</p><p>We can use a flowchart to visualise the logic of an algorithm before we even start coding. It is even useful to map out a flowchart before even writing pseudocode!</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/5b5449fbcb59181379188763c5b91c23d00aa85b.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/4cbf5900535299117a8b6bcb0b91f7e326ce7f0a.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>We can describe a sequence of steps and actions in plain natural language called&nbsp;<strong>pseudocode</strong>. So, we can write step-by-step descriptions for an algorithm using these short but descriptive phrases.</p><p>Because pseudocode is written in natural language, some variation is often observed in the syntax. Furthermore, to ensure that indents are clear, dashes, lines, or dots are often used in place of the spaces/tabs.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/7ade5c42156ace3f2a59ba418ca09d222519e6fd.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/3b01a851ae0106280808f3ced8d993f6f5bf8d14.png",
+          "alt": "",
+          "attribution": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Operators",
+    "displayTitle": "Operators",
+    "body": "<p>A conditional statement is a single statement - or set of statements - that is evaluated through comparison and boolean operators on a boolean expression with a <em>True</em> or <em>False</em> outcome.</p>",
+    "_id": "622f441a80ed2f06a27c3823",
+    "_parentId": "622b27f02dafed0cf8c80cac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select a card to read more about the operator.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/b651bdcf8edb456cf7050d936a9af7dba3eafee2.png"
+        },
+        "backTitle": "",
+        "backBody": "<p><strong>Comparison operators&nbsp;</strong>are used to compare numbers or strings to perform the evaluation within the boolean expression.</p><p style=\"margin-left: 40px;\"><strong>Equal to (==):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly&nbsp;equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Not equal to (!=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly not equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Greater than (&gt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is greater than the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Greater than or equal to (&gt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either greater or equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Less than (&lt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is smaller than the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Less than or equal to (&lt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either smaller or equal to the value on the right.</p>"
+      },
+      {
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/4e824fc36afc8033d5f94383d5ef7d5084c0b2c0.png"
+        },
+        "backTitle": "",
+        "backBody": "<p><strong>Boolean operators</strong>&nbsp;are used as conjunctions to combine (or exclude) statements in a boolean expression.</p><p style=\"margin-left: 40px;\"><strong>AND</strong>&nbsp;- The two arguments are considered in conjunction. Both arguments should be&nbsp;<em>True</em>&nbsp;for the statement to be&nbsp;<em>True.</em></p><p style=\"margin-left: 40px;\"><strong>NOT</strong>&nbsp;- Only considers the argument after the operator. The algorithm considers the opposite of the argument.</p><p style=\"margin-left: 40px;\"><strong>OR</strong>&nbsp;- If either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>&nbsp;the statement will be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement will also be&nbsp;<em>True.</em></p><p style=\"margin-left: 40px;\"><strong>XOR</strong>&nbsp;- Only if either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>will the statement be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement is&nbsp;<em>False</em>.</p><p style=\"margin-left: 40px;\">&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flowchart Symbols",
+    "displayTitle": "Flowchart Symbols",
+    "body": "<p>We use different symbols in a flowchart to represent different actions or steps in a process.</p>",
+    "_id": "6230410c80ed2f06a27c3836",
+    "_parentId": "622b28de2dafed0cf8c80cb4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The <strong>terminator</strong>, also known as the start/end symbol, represents the start or end of the process flow.</p>",
+        "_graphic": {
+          "src": "course/en/assets/71d86bad51be279c14ffc81bbb45d4de55223f50.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Terminator"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The <strong>process</strong> or action symbol, represent a single step or function, or an entire sub-process within the overall process flow.</p>",
+        "_graphic": {
+          "src": "course/en/assets/36531d2bc7d652e1bcb65038d8b62ad7a061c65f.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Process"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The <strong>decision</strong> or branch point symbol is where we have our boolean expression. It is the point where a decision needs to be made with the outcome of either true or false.</p>",
+        "_graphic": {
+          "src": "course/en/assets/32cebf3939b8d05535fe252cb6424bbe365619b7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Decision"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The <strong>flow arrow</strong> connects the different symbols and indicates the relationships between them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/272e5e53ee02080c34f7af0cf3d9ef8766934815.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Flow arrow"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>The <strong>additional symbols</strong> are not often used in problem solving but rather to&nbsp;represent data processing.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bf71d446e463e73c24782a84cb3f08fa80ed66f7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Additional symbols"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Pseudocode Narrative",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6230512580ed2f06a27c3848",
+    "_parentId": "622b2ac02dafed0cf8c80cc8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": true,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/eb3aba9656cdcb9f319f3fd685c6e3c110d159f7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Conditional Statement Card"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/bcc33abda36ff63aa630214dcf72e2c2fbe05afd.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Boolean Expression Card"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/9177a016a9114368c227eaacc5b633d07d2e48db.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Comparison Operator Card"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/d0fc423631d5251f67b8975f97a9f7c2e20645cc.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Indents Card"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "",
+        "_graphic": {
+          "src": "course/en/assets/0fa6b850744b12bf218a3863c8331c8da17db3be.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Assignment Operators Card"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>Although slight variations in the phrases are acceptable, we use conditional statements, and indent statements that are dependent.</p><p>Have a look at the different components we've considered before, and how they form part of pseudocode.</p><p><em>In the next sections we will have a look at all of these concepts in relation to specific conditional statements.</em></p>",
+    "_id": "6230551a80ed2f06a27c3853",
+    "_parentId": "622b2ac02dafed0cf8c80cc8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62305c8c80ed2f06a27c3854",
+    "_parentId": "622b2b262dafed0cf8c80cce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>We start the process and set a decision point, which is a condition. We have two outcomes, either <em>True</em> or <em>False</em>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/192425e0a966bdaa97edc7738a7278c773956052.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If statement"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>When the condition is <em>False</em>, a different process is executed.&nbsp;However, when the condition is <em>True</em>, another different process is executed.</p>",
+        "_graphic": {
+          "src": "course/en/assets/4f1292f0033d13bb30a296301e122dc146cdaf82.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If statement"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>These two processes executed - as a result of the condition outcomes - may also be outputs, or even another decision point.</p>",
+        "_graphic": {
+          "src": "course/en/assets/4357e23646a8c5200c9b2179c0f3cfc4b3bb5acf.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If statement"
+      }
+    ]
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6230794e80ed2f06a27c3868",
+    "_parentId": "622b14bf2dafed0cf8c80c54",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on any of the targets below to find out more.",
+    "_setCompletionOn": "allItems",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_columns": 4,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>End poverty in all its forms everywhere</strong></p><p>Ending poverty in all its forms is one of the greatest challenges faced by society because it is affected by many other factors. Covid-19 has led to an extreme rise in poverty, pushing an additional <a href=\"https://sdgs.un.org/goals/goal1\">119 to 124 million people</a> back into extreme poverty.</p><p>This goal has 7 targets.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/df7a2527d939d7e3b13d6ffb05accab58a12071b.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.1: Eradicate extreme poverty</strong></p><p>By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/39c07d80253966cd38f33b730298aed911318b63.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.2:&nbsp;Reduce poverty by at least 50%</strong></p><p>By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/b636265f0a7098370206fb8d21e6d735399907aa.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.3: Implement social protection systems</strong></p><p>Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/9b083153be159aac59deaa0641d7658e1fdd51cf.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.4: Equal rights to ownership, basic services, technology and economic resources</strong></p><p>By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/def8193195ba9465ca845881ed0d82db749ad69a.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.5 Build resilience to environmental, economic, and social disasters</strong></p><p>By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/aaf6ec096432b424602d1a89968110ef6e5864fa.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.A: Mobilise resources to implement policies to end poverty</strong></p><p>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions.</p><p><sub>(Also known as Target 1.6)</sub></p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/05d5bd44c2e86d796ce3eaf313ff8030b5ce6ecc.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Target 1.B: Create pro-poor and gender-sensitive policy frameworks</strong></p><p>Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication.</p><p><sub>(Also known as Target 1.7)</sub></p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/0f2476ab76cfdd5e0ef0c7fc21b837f1c05039eb.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>If we want to be good programmers, data scientists, or data engineers, we need to know how to solve problems effectively using the right tools!</p>",
+    "_id": "62333c5ee027b70cf9416101",
+    "_parentId": "62333c54e027b70cf9416100",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "If Else Statement",
+    "displayTitle": "",
+    "body": "<p>If our statement has <em>more than two possible outcomes</em> with specific conditions, we can apply the same logic as before but use&nbsp;an <strong>if-else statement</strong>.</p>",
+    "_id": "623438bbe027b70cf9416104",
+    "_parentId": "622b2c8a2dafed0cf8c80ce3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>We again start the process and set a decision point, condition 1. When condition 1 is&nbsp;<em>True</em>, then a process can occur.</p>",
+        "_graphic": {
+          "src": "course/en/assets/45f7f4e1e67ac207aae554aa01f30453e5371cf3.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If Else Statement Card 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>However, when condition 1 is&nbsp;<em>False</em>, then another decision point is reached, with its own&nbsp;<em>True</em>&nbsp;and&nbsp;<em>False</em>&nbsp;outcomes.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b6f3003b2f6be5d194784365c65f006755c20fce.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If Else Statement Card 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>When condition 1 is&nbsp;<em>False</em>, and condition 2 is&nbsp;<em>True</em>, another process may occur.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a09baddc10448d389f7d7c43308bb70cbcea20b0.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If Else Statement Card 3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>However, when condition 1 is&nbsp;<em>False</em>&nbsp;and condition 2 is&nbsp;<em>False</em>, we might reach an endpoint. Remember, as in the if statement, processes 1 and/or 2 may also be conditions, or even outputs, depending on the statement and algorithm.</p>",
+        "_graphic": {
+          "src": "course/en/assets/19d2b691fcb3850c418059d40da4bd2112e180a9.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "If Else Statement Card 4"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Nested If Statement",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623439e0e027b70cf9416105",
+    "_parentId": "622b2d172dafed0cf8c80cee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>A nested if statement can have two separate conditional statements for when the first condition is either&nbsp;<em>True</em> or&nbsp;<em>False</em>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a84e17cce8806f9f2d7f3ee9ba63d7eb94a77a21.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Nested If Statement Card 1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Each of these conditional statements may include another nested if statement, a process, or output.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2d79d9437a6ee46ba795fac77a8e15cd3a0965fa.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Nested If Statement Card 2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>However, one of the two outcomes of condition 1, either&nbsp;<em>True</em>&nbsp;or&nbsp;<em>False,</em> may also simply be a process or output. In other words,&nbsp;both of the condition 1 outcomes&nbsp;doesn’t have to include another condition.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7adf64afdd0108d1db8f378043a7c06faf240a8e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Nested If Statement Card 3"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "",
+    "body": "<p style=\"margin-left: 40px;\"><em>The learning material provided will assist you in the upcoming assessment.</em></p><p>In this training material, we'll take a look at the 101s of problem solving, and how we can use MECE and logic trees to help us solve problems in a coherent and comprehensive way.</p><p>We'll also consider how we can apply programmatic thinking and its tools to organise information related to our problem into a set of computer-executable instructions. We'll use logic trees, conditional statements, various operators, flowcharts, and pseudocode to create these instructions.</p>",
+    "_id": "623474efe027b70cf9416140",
+    "_parentId": "623474cee027b70cf941613f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "EXPLORE Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623965f665fd2b1c0f93dce8",
+    "_parentId": "623965f365fd2b1c0f93dce7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3a7346e2b3d087b172c1ec657e7b0b0a0d5adf89.png",
+      "small": "course/en/assets/3a7346e2b3d087b172c1ec657e7b0b0a0d5adf89.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Case Study: United Nations Sustainable Development Goal - No Poverty",
+    "displayTitle": "",
+    "body": "<p style=\"margin-left:40px\"><em>This case study provides context and additional information on the United Nations Sustainable Development Goals that may be useful in the assessments.</em></p>",
+    "_id": "623968a265fd2b1c0f93dcfa",
+    "_parentId": "6239689865fd2b1c0f93dcf9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "EDSA Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623968e065fd2b1c0f93dcfc",
+    "_parentId": "623968dd65fd2b1c0f93dcfb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3a7346e2b3d087b172c1ec657e7b0b0a0d5adf89.png",
+      "small": "course/en/assets/3a7346e2b3d087b172c1ec657e7b0b0a0d5adf89.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Header",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6239703265fd2b1c0f93dd02",
+    "_parentId": "6239702b65fd2b1c0f93dd01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3de952ac90d3daaaa8525d4d2878876e3d6c992d.png",
+      "small": "course/en/assets/3de952ac90d3daaaa8525d4d2878876e3d6c992d.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Target 1.1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c13147b682005edc9c525",
+    "_parentId": "622b15552dafed0cf8c80c5a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/80f0aa9c9c23d6690b5c4d11439afec0b9aeb3b2.png",
+      "small": "course/en/assets/80f0aa9c9c23d6690b5c4d11439afec0b9aeb3b2.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Banner",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c13db7b682005edc9c52e",
+    "_parentId": "623c13b87b682005edc9c52d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4a24b2d38472034adf5aedbc9446bfca83c975cb.png",
+      "small": "course/en/assets/4a24b2d38472034adf5aedbc9446bfca83c975cb.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Target 1.2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c14787b682005edc9c532",
+    "_parentId": "622b1db32dafed0cf8c80c65",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7fcc9d966880084e5347dd21a639ad82814b9205.png",
+      "small": "course/en/assets/7fcc9d966880084e5347dd21a639ad82814b9205.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Target 1.3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c14e87b682005edc9c537",
+    "_parentId": "622b1f402dafed0cf8c80c6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9636f1fd2c9583dbe08890662d807d75a8125b87.png",
+      "small": "course/en/assets/9636f1fd2c9583dbe08890662d807d75a8125b87.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Target 1.4",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c154e7b682005edc9c53c",
+    "_parentId": "622b22c32dafed0cf8c80c7d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f01e0286ee7aa519e694c9ec867188b6c2577909.png",
+      "small": "course/en/assets/f01e0286ee7aa519e694c9ec867188b6c2577909.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c15b87b682005edc9c541",
+    "_parentId": "622b240c2dafed0cf8c80c91",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fdeb08d1ae6681ae0d3f3711b52c0ae4185686b0.png",
+      "small": "course/en/assets/fdeb08d1ae6681ae0d3f3711b52c0ae4185686b0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indicators",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c1b587b682005edc9c54b",
+    "_parentId": "623c1b417b682005edc9c54a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fb629b604d67d0a6ed6f7f14cfdf3620bb4ab6a7.png",
+      "small": "course/en/assets/fb629b604d67d0a6ed6f7f14cfdf3620bb4ab6a7.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indicators",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c1bd97b682005edc9c550",
+    "_parentId": "623c1bca7b682005edc9c54f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3ba3f48668034f0108b9806ecd6b2610473a8401.png",
+      "small": "course/en/assets/3ba3f48668034f0108b9806ecd6b2610473a8401.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indicators",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c1c4b7b682005edc9c555",
+    "_parentId": "623c1c3b7b682005edc9c554",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/02170bf617d091abcfe730d2a1814bb3bbdac3ff.png",
+      "small": "course/en/assets/02170bf617d091abcfe730d2a1814bb3bbdac3ff.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Indicators",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c1cba7b682005edc9c55a",
+    "_parentId": "623c1cab7b682005edc9c559",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/65bec7a0c56760959d304e1030ff65fc2c881455.png",
+      "small": "course/en/assets/65bec7a0c56760959d304e1030ff65fc2c881455.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "hotgrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Ladder Hotgrid",
+    "displayTitle": "",
+    "body": "<p>Both indicator 11.6.1 on waste collection and indicator 6.1.1 on drinking water each have five different groups based on requirements, as listed below. These are often called ladders, where the leftmost group is the most ideal situation.</p>",
+    "_id": "623c217a7b682005edc9c566",
+    "_parentId": "622b23462dafed0cf8c80c82",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Waste collection ladder for indicator 11.6.1 and safe drinking water ladder for indicator 6.1.1.",
+    "_setCompletionOn": "allItems",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_columns": 5,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity and MSW is collected in three or more separate fractions.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/e90e880d1fe68030df4d40a031cbacdb45cdda08.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/1a175e1729ac26511744e1105ea3feac4a5c747a.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity and MSW is collected in a minimum of two, separate fractions (eg. wet and dry fractions).</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/9794b4a6ac980d3446b8a2189882a08c4c368fc9.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/1adb05c49a3cd402a8c828b4b52dd2088a3e368b.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/5939fc7b386aaf34a3d823476701f1abc2ae732e.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/db5e8f164712f14b86b8128e298d8a15b89dd724.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Receiving door-to-door MSW collection service or or designated collection point within 200 m without basic frequency and regularity, or having designated collection point in further than 200 m distance.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/c14cd294f0b410cd3b46d9d5bd2d394cb224610c.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/92f8636041ec73a446e3934d98d5764194145076.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Receiving no waste collection service.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/e89996f6cd61f81de885f55e7a2fe0e63933dc05.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/3e19bd45e4f0720f61973c5bd436d59b0a51c087.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Drinking water from an improved water source that is accessible on premises, available when needed and free from faecal and priority chemical contamination.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/83eea7abff436fb8ddca2ef986d3e4074f2cf53c.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/141094a604397c4e02cdc0793d4d20c9332e9210.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Drinking water from an improved source, provided collection time is not more than 30 minutes for a roundtrip including queuing.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/e455d8f0f00f621e1aca1f2d2920bb9f1a7b65b2.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/e712fa9cb6b8a918b9d2b40f00c94a62ebe7a89f.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/a16f933b37b5ed39699ec5ad7bc2a16c3d0a2cf6.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/64da676fdfd774deb8c48cca6ca0c3afe93796ab.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Drinking water from an unprotected dug well or unprotected spring.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/938a53aecd14bad8e5fbaceeea60d9686d45a6cf.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/1ac7b9fa8526551e49e8c7e046442db251943d74.png",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal.</p>",
+        "_classes": "",
+        "_graphic": {
+          "src": "course/en/assets/dfed8c60dff35bde863ae3075f6eefa114141477.png",
+          "srcHover": "",
+          "srcVisited": "",
+          "alt": "",
+          "title": ""
+        },
+        "_itemGraphic": {
+          "src": "course/en/assets/94ba7e0bf6a6f25544041da362fb7b4169110c26.png",
+          "alt": "",
+          "attribution": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "623c27b07b682005edc9c591",
+    "_parentId": "623c276e7b682005edc9c590",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f18d134180afd2d17192abdad81e5c8f53d64a0f.png",
+      "small": "course/en/assets/f18d134180afd2d17192abdad81e5c8f53d64a0f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  }
+]
