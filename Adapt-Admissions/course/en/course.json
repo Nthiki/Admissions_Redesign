@@ -304,6 +304,14 @@
         "filename": "",
         "description": "An overview of the various SDGs. Goal 1 of the SDGs are used for this case study.",
         "_link": "https://www.globalgoals.org/goals/"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Example Admissions Assessment Questions",
+        "filename": "",
+        "description": "In this document you will find example questions similar to what you will be required to answer in the admissions process.",
+        "_link": "course/en/assets/d6ca39ee4c6a972c768d52cc4d6c8ce05e9a4f42.pdf"
       }
     ]
   },
