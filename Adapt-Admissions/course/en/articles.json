@@ -128,7 +128,7 @@
   {
     "title": "Problem Solving 101",
     "displayTitle": "Problem Solving 101",
-    "body": "<p>In this video, we’ll discuss how to approach a problem, and we’ll take a look at how we can apply structured thinking to solve a problem involving visual, numerical and verbal information.</p>",
+    "body": "<p>In this video, we’ll discuss how to approach a problem, and we’ll take a look at how we can apply structured thinking to solve a problem involving visual, numerical, and verbal information.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -338,7 +338,7 @@
   {
     "title": "Conditional Statements",
     "displayTitle": "Conditional Statements",
-    "body": "<p>Let's see how conditional statements help us transform a statement into logic trees, flowcharts and pseudocode.</p>",
+    "body": "<p>Let's see how conditional statements help us transform a statement into logic trees, flowcharts, and pseudocode.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
