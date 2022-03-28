@@ -72,7 +72,7 @@
   {
     "title": "If Statement",
     "displayTitle": "If Statement",
-    "body": "<p>The <strong>if statement</strong> is the fundamental decision making statement. Specific code is executed based on whether the condition is met or not. Both the true and false outcomes can result in another process, decision, or outcome.</p>",
+    "body": "<p>The <strong>if statement</strong> is the fundamental decision-making statement. Specific code is executed based on whether the condition is met or not. Both the true and false outcomes can result in another process, decision, or outcome.</p>",
     "_classes": "",
     "_trackingId": 3,
     "instruction": "",
@@ -422,7 +422,7 @@
   {
     "title": "If Statement Example",
     "displayTitle": "",
-    "body": "<p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons of the age 14 and under are in the child life stage, while persons older than 14 are in the adult life stage.</strong></p><p>In a logic tree, this statement is two branches: one representing the condition for being considered a child, and another for the condition of being an adult. If we decide to focus on the first branch where the condition is related to being a child, we have a conditional statement at our flowchart decision point, <span style=\"background-color:#e7e9eb\">Age &lt;= 14</span>.</p><p>If the person is 14 or younger, then the conditional statement is <em>True</em> and the output will be <span style=\"background-color:#e7e9eb\">child</span>. If the person is older than 14, the condition is <em>False</em> and the output will be <span style=\"background-color:#e7e9eb\">adult</span>.</p><p>The pseudocode of this process can either be in terms of a boolean output, i.e., <span style=\"background-color:#e7e9eb\">child</span> is either <em>True</em> or <em>False</em>, or text output, i.e., the <span style=\"background-color:#e7e9eb\">life stage</span> is either child or adult, depending on the purpose of the algorithm.</p>",
+    "body": "<p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons of age 14 and under are in the child life stage, while persons older than 14 are in the adult life stage.</strong></p><p>In a logic tree, this statement is two branches: one representing the condition for being considered a child, and another for the condition of being an adult. If we decide to focus on the first branch where the condition is related to being a child, we have a conditional statement at our flowchart decision point, <span style=\"background-color:#e7e9eb\">Age &lt;= 14</span>.</p><p>If the person is 14 or younger, then the conditional statement is <em>True</em> and the output will be <span style=\"background-color:#e7e9eb\">child</span>. If the person is older than 14, the condition is <em>False</em> and the output will be <span style=\"background-color:#e7e9eb\">adult</span>.</p><p>The pseudocode of this process can either be in terms of a boolean output, i.e., <span style=\"background-color:#e7e9eb\">child</span> is either <em>True</em> or <em>False</em>, or text output, i.e., the <span style=\"background-color:#e7e9eb\">life stage</span> is either child or adult, depending on the purpose of the algorithm.</p>",
     "_classes": "",
     "_trackingId": 13,
     "instruction": "",
@@ -1374,7 +1374,7 @@
   {
     "title": "If-Else Statement Example",
     "displayTitle": "",
-    "body": "<p>If our statement has <em>more than two possible outcomes with specific conditions</em>, we can apply the same logic as before using an <strong>if-else statement</strong>.</p><p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons of the age 14 and under are in the <em>child</em> life stage, while persons older than 14 but younger than 65 are in the <em>adult</em> life stage, and persons of the age 65 and older are in the <em>pensioner</em> life stage</strong>.</p><p>Our logic tree now has three branches relating to conditional statements on the age of being considered a child, adult, or pensioner.</p><p>Our flowchart now has two decision points. First, we decide if the person is a child or not a child, and then since being a child has already been ruled out based on the first condition, we simply decide whether the person is an adult or not an adult.</p><p>If the person is neither a child nor an adult, then the person can only be a pensioner.</p>",
+    "body": "<p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons of age 14 and under are in the <em>child</em> life stage, while persons older than 14 but younger than 65 are in the <em>adult</em> life stage, and persons of the age 65 and older are in the <em>pensioner</em> life stage</strong>.</p><p>Our logic tree now has three branches relating to conditional statements on the age of being considered a child, adult, or pensioner.</p><p>Our flowchart now has two decision points. First, we decide if the person is a child or not a child. Then, since being a child has already been ruled out based on the first condition, we simply decide if the person is an adult or not an adult.</p><p>If the person is neither a child nor an adult, then the person can only be a pensioner.</p>",
     "_classes": "",
     "_trackingId": 37,
     "instruction": "",

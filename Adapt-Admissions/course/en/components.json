@@ -626,7 +626,7 @@
     "_disableAccessibilityState": false,
     "title": "Problem Solving - What's next?",
     "displayTitle": "",
-    "body": "<p>The path to being a great problem solver is not linear and not all problem solving strategies and frameworks are as effective for all thinkers. So, in addition to practising different problem solving strategies, remember to:</p><ul><li><strong>be aware</strong> of your cognitive processes and strategies - try to define what your (most effective) processes are in order to apply them when faced with more complex problems;</li><li><strong>self-reflect</strong> on your processes and strategies, and HOW effective (or not) a problem solving strategy or framework worked when you solved a problem; and</li><li><strong>practice</strong> your critical thinking, metacognition, and problem solving. There are many basic logic and reasoning resources online that can help you practice.&nbsp;Try to solve daily tasks by applying some of these skills;&nbsp;solve programming challenges, or take on a hackathon!</li></ul><p>However, we also need a&nbsp;<strong>structured, transferable</strong>, and&nbsp;<strong>logical</strong>&nbsp;approach to be effective problem solvers. The MECE principle and logic trees can help us in determine all the possible causes - and possible solutions- of a problem.</p>",
+    "body": "<p>The path to being a great problem solver is not linear and not all problem-solving strategies and frameworks are as effective for all thinkers. So, in addition to practising different problem solving strategies, remember to:</p><ul><li><strong>be aware</strong>&nbsp;of your cognitive processes and strategies. Try to define what your (most effective) processes are in order to apply them when faced with more complex problems;</li><li><strong>self-reflect&nbsp;</strong>on your processes and strategies, and HOW effective (or not) a problem-solving strategy or framework worked when you solved a problem; and</li><li><strong>practise</strong>&nbsp;your critical thinking, metacognition, and problem solving. There are many basic logic and reasoning resources online that can help you practise.&nbsp;Try to solve daily tasks by applying some of these skills,&nbsp;solve programming challenges, or take on a hackathon!</li></ul><p>However, we also need a&nbsp;<strong>structured, transferable</strong>, and&nbsp;<strong>logical</strong>&nbsp;approach to be effective problem solvers. The MECE principle and logic trees can help us to determine all the possible causes and possible solutions of a problem.</p>",
     "_id": "622b25992dafed0cf8c80c9d",
     "_parentId": "622b25942dafed0cf8c80c9c",
     "_type": "component",
@@ -908,7 +908,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>In this example, the if statement consists of one condition and two outcomes. However, what if we add an additional condition?</p><p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons older than 14 but younger than 65 are in the <em>adult</em> life stage.</strong></p><p>This statement now only considers if a person is classified as an adult (<em>True</em>) or not (<em>False</em>). It infers, however, that persons of age 14 and younger, and of age 65 and older are categorised into different life stages, as visualised in the logic tree below.</p><p>This statement can still be represented by a single if statement, however, we use the boolean operator <span style=\"background-color:#e7e9eb\">AND</span> to consider both conditions in our pseudocode.</p>",
+    "body": "<p>In this example, the if statement consists of one condition and two outcomes. However, what if we add an additional condition?</p><p>Consider the following statement:</p><p style=\"margin-left:40px\"><strong>Persons older than 14 but younger than 65 are in the <em>adult</em> life stage.</strong></p><p>This statement now only considers if a person is classified as an adult (<em>True</em>) or not (<em>False</em>). It infers, however, that persons of age 14 and younger&nbsp;and of age 65 and older are categorised into different life stages, as visualised in the logic tree below.</p><p>This statement can still be represented by a single if statement, however, we use the boolean operator <span style=\"background-color:#e7e9eb\">AND</span> to consider both conditions in our pseudocode.</p>",
     "_id": "622b2c602dafed0cf8c80cdf",
     "_parentId": "622b2c4f2dafed0cf8c80cde",
     "_type": "component",
@@ -922,7 +922,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Compare how the logic tree, flowchart, and pseudocode change when and additional condition is added to the statement.",
+    "instruction": "Compare how the logic tree, flowchart, and pseudocode change when an additional condition is added to the statement.",
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/37140e08ddb422d1410f23f98d95968720d7e957.gif",
@@ -980,7 +980,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>Consider the following statement with the additional constraint that only <strong>human</strong> individuals can be classified into these life stages:</p><p style=\"margin-left:40px\"><strong>Human persons of the age 14 and under are in the <em>child</em> life stage, while human persons older than 14 but younger than 65 are in the <em>adult</em> life stage, and human persons of the age 65 and older are in the <em>pensioner</em> life stage.</strong></p><p>Our logic tree now has two layers; the first layer only has two branches, while the second layer under human still has three, as in our previous example. If <span style=\"background-color:#e7e9eb\">Human</span> is <em>False</em>, then the output can only be <span style=\"background-color:#e7e9eb\">None</span>. However, if <span style=\"background-color:#e7e9eb\">human</span> is <em>True</em>, the life stage can still be either <span style=\"background-color:#e7e9eb\">child</span>, <span style=\"background-color:#e7e9eb\">adult</span>, or <span style=\"background-color:#e7e9eb\">pensioner</span>, depending on the age condition.</p>",
+    "body": "<p>Consider the following statement with the additional constraint that only <strong>human</strong> individuals can be classified into these life stages:</p><p style=\"margin-left:40px\"><strong>Human persons of age 14 and under are in the <em>child</em> life stage, while human persons older than 14 but younger than 65 are in the <em>adult</em> life stage, and human persons of the age 65 and older are in the <em>pensioner</em> life stage.</strong></p><p>Our logic tree now has two layers; the first layer only has two branches, while the second layer under human still has three, as in our previous example. If <span style=\"background-color:#e7e9eb\">human</span> is <em>False</em>, then the output can only be <span style=\"background-color:#e7e9eb\">None</span>. However, if <span style=\"background-color:#e7e9eb\">human</span> is <em>True</em>, the life stage can still be either <span style=\"background-color:#e7e9eb\">child</span>, <span style=\"background-color:#e7e9eb\">adult</span>, or <span style=\"background-color:#e7e9eb\">pensioner</span>, depending on the age condition.</p>",
     "_id": "622b2d772dafed0cf8c80cf4",
     "_parentId": "622b2d6a2dafed0cf8c80cf3",
     "_type": "component",
@@ -994,7 +994,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Consider the increased complexity of the flowchart, and pseudocode, as a result of the additional layer in the logic tree.",
+    "instruction": "Consider the increased complexity of the flowchart and pseudocode as a result of the additional layer in the logic tree.",
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/c83187f773e76626b0019deacc6facc50b8647cb.gif",
@@ -1016,7 +1016,7 @@
     "_disableAccessibilityState": false,
     "title": "Conclusion",
     "displayTitle": "",
-    "body": "<p>We’ve had a look at if, if-else, and nested if conditional statements, and how we can visualise them in a logic tree and flowchart, and convert them into pseudocode. However, there are other specialised conditional statements such as while, for&nbsp;and switch statements that are useful when the conditions representing our decisions become more complex.</p>",
+    "body": "<p>We’ve had a look at if, if-else, and nested if conditional statements and how we can visualise them in a logic tree and flowchart, and convert them into pseudocode. However, there are other specialised conditional statements such as while, for, and switch statements that are useful when the conditions representing our decisions become more complex.</p>",
     "_id": "622b2dba2dafed0cf8c80cfb",
     "_parentId": "622b2daf2dafed0cf8c80cfa",
     "_type": "component",
@@ -1513,7 +1513,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p><strong>MECE</strong> is a grouping principle that helps us solve problems in a coherent and comprehensive way!</p>",
+        "body": "<p><strong>MECE</strong> is a grouping principle that helps us solve problems in a coherent and comprehensive way.</p>",
         "_graphic": {
           "src": "course/en/assets/ce6ce9a02ff3103a2a33a48f9763c99b00b92ec1.png",
           "alt": "",
@@ -1616,7 +1616,7 @@
     "_items": [
       {
         "title": "",
-        "body": "<p>An&nbsp;<strong>algorithm</strong>&nbsp;is a specific procedure to solve a problem in terms of the required actions and the order in which these actions are executed. In order words, an algorithm is the sequence of steps required to solve a problem.</p>",
+        "body": "<p>An&nbsp;<strong>algorithm</strong>&nbsp;is a specific procedure to solve a problem in terms of the required actions and the order in which these actions are executed. In other words, an algorithm is the sequence of steps required to solve a problem.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/9f6f699b379bf0848ada3137692b33bd8cc07261.png",
@@ -1650,7 +1650,7 @@
       },
       {
         "title": "",
-        "body": "<p>We often use flowcharts (a.k.a. a flow diagram) to visually represent the&nbsp;<em>flow of control</em>&nbsp;based on our conditional statements. We use different symbols in a flowchart to represent different actions or steps in a process.</p><p>We can use a flowchart to visualise the logic of an algorithm before we even start coding. It is even useful to map out a flowchart before even writing pseudocode!</p>",
+        "body": "<p>We often use flowcharts (aka a flow diagram) to visually represent the&nbsp;<em>flow of control</em>&nbsp;based on our conditional statements. We use different symbols in a flowchart to represent different actions or steps in a process.</p><p>We can use a flowchart to visualise the logic of an algorithm before we even start coding. It is even useful to map out a flowchart before writing pseudocode!</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/5b5449fbcb59181379188763c5b91c23d00aa85b.png",
@@ -1696,7 +1696,7 @@
     "_disableAccessibilityState": false,
     "title": "Operators",
     "displayTitle": "Operators",
-    "body": "<p>A conditional statement is a single statement - or set of statements - that is evaluated through comparison and boolean operators on a boolean expression with a <em>True</em> or <em>False</em> outcome.</p>",
+    "body": "<p>A conditional statement is a single statement or set of statements that is evaluated through comparison and boolean operators on a boolean expression with a&nbsp;<em>True</em>&nbsp;or&nbsp;<em>False</em>&nbsp;outcome.</p>",
     "_id": "622f441a80ed2f06a27c3823",
     "_parentId": "622b27f02dafed0cf8c80cac",
     "_type": "component",
@@ -1720,7 +1720,7 @@
           "src": "course/en/assets/b651bdcf8edb456cf7050d936a9af7dba3eafee2.png"
         },
         "backTitle": "",
-        "backBody": "<p><strong>Comparison operators&nbsp;</strong>are used to compare numbers or strings to perform the evaluation within the boolean expression.</p><p style=\"margin-left: 40px;\"><strong>Equal to (==):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly&nbsp;equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Not equal to (!=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly not equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Greater than (&gt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is greater than the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Greater than or equal to (&gt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either greater or equal to the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Less than (&lt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is smaller than the value on the right.</p><p style=\"margin-left: 40px;\"><strong>Less than or equal to (&lt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either smaller or equal to the value on the right.</p>"
+        "backBody": "<p><strong>Comparison operators&nbsp;</strong>are used to compare numbers or strings to perform the evaluation within the boolean expression.</p><p style=\"margin-left:40px\"><strong>Equal to (==):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly&nbsp;equal to the value on the right.</p><p style=\"margin-left:40px\"><strong>Not equal to (!=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is strictly not equal to the value on the right.</p><p style=\"margin-left:40px\"><strong>Greater than (&gt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when&nbsp;the value on the left is greater than the value on the right.</p><p style=\"margin-left:40px\"><strong>Greater than or equal to (&gt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either greater than or equal to the value on the right.</p><p style=\"margin-left:40px\"><strong>Less than (&lt;):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is smaller than the value on the right.</p><p style=\"margin-left:40px\"><strong>Less than or equal to (&lt;=):&nbsp;</strong>Returns&nbsp;<em>True</em>&nbsp;when the value on the left is either smaller than or equal to the value on the right.</p>"
       },
       {
         "frontImage": {
@@ -1728,7 +1728,7 @@
           "src": "course/en/assets/4e824fc36afc8033d5f94383d5ef7d5084c0b2c0.png"
         },
         "backTitle": "",
-        "backBody": "<p><strong>Boolean operators</strong>&nbsp;are used as conjunctions to combine (or exclude) statements in a boolean expression.</p><p style=\"margin-left: 40px;\"><strong>AND</strong>&nbsp;- The two arguments are considered in conjunction. Both arguments should be&nbsp;<em>True</em>&nbsp;for the statement to be&nbsp;<em>True.</em></p><p style=\"margin-left: 40px;\"><strong>NOT</strong>&nbsp;- Only considers the argument after the operator. The algorithm considers the opposite of the argument.</p><p style=\"margin-left: 40px;\"><strong>OR</strong>&nbsp;- If either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>&nbsp;the statement will be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement will also be&nbsp;<em>True.</em></p><p style=\"margin-left: 40px;\"><strong>XOR</strong>&nbsp;- Only if either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>will the statement be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement is&nbsp;<em>False</em>.</p><p style=\"margin-left: 40px;\">&nbsp;</p>"
+        "backBody": "<p><strong>Boolean operators</strong>&nbsp;are used as conjunctions to combine (or exclude) statements in a boolean expression.</p><p style=\"margin-left:40px\"><strong>AND:</strong>&nbsp;The two arguments are considered in conjunction. Both arguments should be&nbsp;<em>True</em>&nbsp;for the statement to be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>NOT:</strong>&nbsp;Only considers the argument after the operator. The algorithm considers the opposite of the argument.</p><p style=\"margin-left:40px\"><strong>OR:</strong>&nbsp;If either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>&nbsp;the statement will be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement will also be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>XOR:</strong>&nbsp;Only if either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>will the statement be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement is&nbsp;<em>False</em>.</p>"
       }
     ]
   },
@@ -1779,7 +1779,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>The <strong>process</strong> or action symbol, represent a single step or function, or an entire sub-process within the overall process flow.</p>",
+        "body": "<p>The <strong>process</strong> or action symbol&nbsp;represent a single step or function, or an entire sub-process within the overall process flow.</p>",
         "_graphic": {
           "src": "course/en/assets/36531d2bc7d652e1bcb65038d8b62ad7a061c65f.png",
           "alt": "",
@@ -1924,7 +1924,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>&nbsp;</p><p>Although slight variations in the phrases are acceptable, we use conditional statements, and indent statements that are dependent.</p><p>Have a look at the different components we've considered before, and how they form part of pseudocode.</p><p><em>In the next sections we will have a look at all of these concepts in relation to specific conditional statements.</em></p>",
+    "body": "<p>&nbsp;</p><p>Although slight variations in the phrases are acceptable, we use conditional statements&nbsp;and indent statements that are dependent.</p><p>Have a look at the different components we've considered before and how they form part of pseudocode.</p><p><em>In the next sections we will have a look at all of these concepts in relation to specific conditional statements.</em></p>",
     "_id": "6230551a80ed2f06a27c3853",
     "_parentId": "622b2ac02dafed0cf8c80cc8",
     "_type": "component",
@@ -1987,7 +1987,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>When the condition is <em>False</em>, a different process is executed.&nbsp;However, when the condition is <em>True</em>, another different process is executed.</p>",
+        "body": "<p>When the condition is&nbsp;<em>False</em>, a certain process is executed.&nbsp;However, when the condition is&nbsp;<em>True</em>, a different process is executed.</p>",
         "_graphic": {
           "src": "course/en/assets/4f1292f0033d13bb30a296301e122dc146cdaf82.png",
           "alt": "",
@@ -1998,7 +1998,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>These two processes executed - as a result of the condition outcomes - may also be outputs, or even another decision point.</p>",
+        "body": "<p>These two processes executed&nbsp;as a result of the condition outcomes may also be outputs, or even another decision point.</p>",
         "_graphic": {
           "src": "course/en/assets/4357e23646a8c5200c9b2179c0f3cfc4b3bb5acf.png",
           "alt": "",
@@ -2344,7 +2344,7 @@
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>However, one of the two outcomes of condition 1, either&nbsp;<em>True</em>&nbsp;or&nbsp;<em>False,</em> may also simply be a process or output. In other words,&nbsp;both of the condition 1 outcomes&nbsp;doesn’t have to include another condition.</p>",
+        "body": "<p>However, one of the two outcomes of condition 1, either&nbsp;<em>True</em>&nbsp;or&nbsp;<em>False,</em> may also simply be a process or output. In other words, the condition 1 outcomes don’t both have to include another condition.</p>",
         "_graphic": {
           "src": "course/en/assets/7adf64afdd0108d1db8f378043a7c06faf240a8e.png",
           "alt": "",
@@ -2366,7 +2366,7 @@
     "_disableAccessibilityState": false,
     "title": "Overview",
     "displayTitle": "",
-    "body": "<p style=\"margin-left: 40px;\"><em>The learning material provided will assist you in the upcoming assessment.</em></p><p>In this training material, we'll take a look at the 101s of problem solving, and how we can use MECE and logic trees to help us solve problems in a coherent and comprehensive way.</p><p>We'll also consider how we can apply programmatic thinking and its tools to organise information related to our problem into a set of computer-executable instructions. We'll use logic trees, conditional statements, various operators, flowcharts, and pseudocode to create these instructions.</p>",
+    "body": "<p><em>The learning material provided will assist you in the upcoming assessment.</em></p><p>In this training material, we'll take a look at the 101s of problem solving, and how we can use MECE and logic trees to help us solve problems in a coherent and comprehensive way.</p><p>We'll also consider how we can apply programmatic thinking and its tools to organise information related to our problem into a set of computer-executable instructions. We'll use logic trees, conditional statements, various operators, flowcharts, and pseudocode to create these instructions.</p>",
     "_id": "623474efe027b70cf9416140",
     "_parentId": "623474cee027b70cf941613f",
     "_type": "component",
