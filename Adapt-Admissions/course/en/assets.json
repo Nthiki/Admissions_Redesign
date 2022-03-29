@@ -269,16 +269,6 @@
       }
     ]
   },
-  "78bf1c3f6c093741d46274c4e3c1251757dfa7f7.gif": {
-    "title": "Pseudocode GIF",
-    "description": "Pseudocode GIF",
-    "tags": [
-      {
-        "title": "Final",
-        "_id": "623449c0e027b70cf9416108"
-      }
-    ]
-  },
   "7e103f11a197ec5caeadf66a26fb274efc8a0969.png": {
     "title": "Overall Goal Card",
     "description": "Overall Goal Card",
@@ -1227,6 +1217,26 @@
   "d6ca39ee4c6a972c768d52cc4d6c8ce05e9a4f42.pdf": {
     "title": "Example Questions PDF",
     "description": "Example Questions PDF",
+    "tags": [
+      {
+        "title": "Final",
+        "_id": "623449c0e027b70cf9416108"
+      }
+    ]
+  },
+  "6762f3cebd8eae6acdd4556eb015ecb2359909c1.gif": {
+    "title": "Pseudocode GIF (Fix)",
+    "description": "Pseudocode GIF (Fix)",
+    "tags": [
+      {
+        "title": "Final",
+        "_id": "623449c0e027b70cf9416108"
+      }
+    ]
+  },
+  "c387a748f870a661c625ea4ac1beb5dccaaf974f.gif": {
+    "title": "Pseudocode GIF Small (Fix)",
+    "description": "Pseudocode GIF Small (Fix)",
     "tags": [
       {
         "title": "Final",
