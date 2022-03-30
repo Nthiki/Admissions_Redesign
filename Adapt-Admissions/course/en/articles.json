@@ -188,7 +188,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -254,7 +254,7 @@
   {
     "title": "Conclusion",
     "displayTitle": "Conclusion",
-    "body": "<p>Target 1.a and 1.b (sometimes referred to as 1.6 and 1.7 respectively) focus on policies and frameworks at national, regional and international levels to end poverty. As in the previously discussed targets of goal 1, targets 1.a and 1.b relate poverty to income, education, health, and social protection, but with a focus on governmental spending required to end poverty.</p><p>We've only had a look at Goal 1 of the Sustainable Development Goals, and its complex interactions with other goals, and their targets and indicators.</p><p>\"How do we end poverty in all its forms everywhere?\", is an immense problem. In conjunction with the 16 other goals, it is certainly overwhelming. However, if individuals all over the world take a small step each day towards these goals, we can certainly contribute to ending poverty, ensuring prosperity and peace of all people, and protecting our planet.</p><p>&nbsp;</p>",
+    "body": "<p>Target 1.a and 1.b (sometimes referred to as 1.6 and 1.7 respectively) focus on policies and frameworks at national, regional and international levels to end poverty. As in the previously discussed targets of goal 1, targets 1.a and 1.b relate poverty to income, education, health, and social protection, but with a focus on governmental spending required to end poverty.</p><p>We've only had a look at goal 1 of the Sustainable Development Goals, and its complex interactions with other goals&nbsp;and their targets and indicators.</p><p>\"How do we end poverty in all its forms everywhere?\" is an immense problem. In conjunction with the 16 other goals, it is certainly overwhelming. However, if individuals all over the world take a small step each day towards these goals, we can certainly contribute to ending poverty, ensuring prosperity and peace for all people, and protecting our planet.</p><p>&nbsp;</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
