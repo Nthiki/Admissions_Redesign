@@ -98,7 +98,7 @@
     "_disableAccessibilityState": false,
     "title": "Goals Overview Visual",
     "displayTitle": "",
-    "body": "<p>Below, we’ve included examples of 2021 SDG scores for each of Kenya, Nigeria, and South Africa. Each goal contributes equally as much as or shares equal weight with, the other goals. This means countries with great scores on one or two goals, but generally lower scores on the rest, won’t do as well as a country with consistently higher scores across all goals - despite having lower maximum individual scores.</p><p>This is illustrated well for Nigeria, whose scores goals 12 and 13 are the highest of the three, and yet because of consistently low scores across the other 15 goals, it scores the lowest overall. South Africa, despite a 0/10 for goal 10, has consistently good scores across the remaining 16 goals and sees the highest overall score as a result - despite no outstandingly high individual scores.</p>",
+    "body": "<p>Below, we’ve included examples of 2021 SDG scores for each of Kenya, Nigeria, and South Africa. Each goal contributes equally as much as or shares equal weight with&nbsp;the other goals. This means countries with great scores on one or two goals, but generally lower scores on the rest, won’t do as well as a country with consistently higher scores across all goals – despite having lower maximum individual scores.</p><p>This is illustrated well for Nigeria, whose scores for goals 12 and 13 are the highest of the three, and yet because of consistently low scores across the other 15 goals, it scores the lowest overall. South Africa, despite a 0/10 for goal 10, has consistently good scores across the remaining 16 goals and sees the highest overall score as a result – despite no outstandingly high individual scores.</p>",
     "_id": "622b141b2dafed0cf8c80c4d",
     "_parentId": "622b140c2dafed0cf8c80c4c",
     "_type": "component",
@@ -362,7 +362,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong>Social protection</strong> is a key theme in this target. Therefore, it is important to understand how the different types of social protection are categorised to be able to calculate the various parameters related to the target’s indicator.</p><p>Social protection, often also called social security, is the prevention and management of events that could adversely affect people’s wellbeing. The broad category “social protection” includes insurance such as medical insurance, pension funds, injury compensation, and unemployment benefits - these are called <strong>contributory</strong> social protection because most often individuals contribute monthly payments to these insurances in order to be protected in future adverse events.</p><p>Social protection, however, also includes <strong>non-contributory</strong> social protection such as social assistance in the form of public programmes and subsidies. It is non-contributory because governments, rather than individuals, contribute or spend money on these types of protection.</p>",
+    "body": "<p><strong>Social protection</strong> is a key theme in this target. Therefore, it is important to understand how the different types of social protection are categorised to be able to calculate the various parameters related to the target’s indicator.</p><p>Social protection, often also called social security, is the prevention and management of events that could adversely affect people’s well-being. The broad category “social protection” includes insurance such as medical insurance, pension funds, injury compensation, and unemployment benefits – these are called <strong>contributory</strong> social protection because most often individuals contribute monthly payments to these insurances in order to be protected in future adverse events.</p><p>Social protection, however, also includes <strong>non-contributory</strong> social protection such as social assistance in the form of public programmes and subsidies. It is non-contributory because governments, rather than individuals, contribute or spend money on these types of protection.</p>",
     "_id": "622b201d2dafed0cf8c80c75",
     "_parentId": "622b20162dafed0cf8c80c74",
     "_type": "component",
@@ -576,7 +576,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "A demonstration of the links between the Sendai framework targets and the Sustainable Development Goals (SDGs).",
+    "instruction": "A demonstration of the links between the Sendai Framework targets and the Sustainable Development Goals (SDGs).",
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/c01b527bd9e37c9ab47075d8847e80a669bf8aa1.gif",
@@ -1103,7 +1103,7 @@
     "_items": [
       {
         "title": "",
-        "body": "<p><strong>The Global Goals</strong></p><p>The Sustainable Development Goals (SDGs)&nbsp;is a collection of 17 actionable global goals that&nbsp;represent the plan by the United Nations and world leaders to&nbsp;overcome the many challenges society is faced with. Find out more <a href=\"https://www.globalgoals.org/goals/\">here</a>.</p><p style=\"margin-left:40px\"><em>\"Big challenges need bold action to overcome them, and that is where the Global Goals come in.\"</em></p>",
+        "body": "<p><strong>The Global Goals</strong></p><p>The Sustainable Development Goals (SDGs)&nbsp;are a collection of 17 actionable global goals that&nbsp;represent the plan by the United Nations and world leaders to&nbsp;overcome the many challenges society is faced with. Find out more <a href=\"https://www.globalgoals.org/goals/\" target=\"_blank\">here</a>.</p><p style=\"margin-left:40px\"><em>\"Big challenges need bold action to overcome them, and that is where the Global Goals come in.\"</em></p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/7e103f11a197ec5caeadf66a26fb274efc8a0969.png",
@@ -1154,7 +1154,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Ensure healthy lives and promote well-being for all at all ages</strong></p><p>Despite the considerable development we have made as a society, a significant amount of&nbsp;money and resources is still being spent on treating preventable illnesses.</p><p>The good health and well-being goal aims to promote healthier lifestyles and more efficient preventative healthcare for everyone.</p>",
+        "body": "<p><strong>Ensure healthy lives and promote well-being for all at all ages</strong></p><p>Despite the considerable development we have made as a society, a significant amount of&nbsp;money and resources are&nbsp;still being spent on treating preventable illnesses.</p><p>The good health and well-being goal aims to promote healthier lifestyles and more efficient preventative healthcare for everyone.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/cdce50f2f5e448896cc7b1159c79f42bf49093de.png",
@@ -1222,7 +1222,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Ensure access to affordable, reliable, sustainable and modern energy for all</strong></p><p>Although more people have access to electricity today than ever before, our population - and the demand for affordable energy&nbsp;- continues to grow at a rate exceeding that of our energy resources and infrastructure.</p><p>Even with&nbsp;clean energy prices decreasing, we seem to be increasingly reliant on fossil fuels, despite their adverse effects on our climate and health.</p>",
+        "body": "<p><strong>Ensure access to affordable, reliable, sustainable and modern energy for all</strong></p><p>Although more people have access to electricity today than ever before, our population – and the demand for affordable energy&nbsp;– continues to grow at a rate exceeding that of our energy resources and infrastructure.</p><p>Even with&nbsp;clean energy prices decreasing, we seem to be increasingly reliant on fossil fuels, despite their adverse effects on our climate and health.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/ff640ba17e030b315f4266a31e251fe6932294b3.png",
@@ -1256,7 +1256,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</strong></p><p>Infrastructure, innovation, and technological progress&nbsp;are key to economic growth and development. This includes promoting environmentally friendly and sustainable industries and the research thereof, access to financial services and markets, and promoting access to information, the internet, and other communication technologies.</p>",
+        "body": "<p><strong>Build resilient infrastructure, promote inclusive and sustainable industrialisation and foster innovation</strong></p><p>Infrastructure, innovation, and technological progress&nbsp;are key to economic growth and development. This includes promoting environmentally friendly and sustainable industries and the research thereof, access to financial services and markets, and promoting access to information, the internet, and other communication technologies.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/0c6df21979aa5d313bf3143a784f87f5775cefec.png",
@@ -1273,7 +1273,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Reduce inequality within and among countries</strong></p><p>In order to ensure continuous development and lasting prosperity, everyone - regardless of gender, race, ethnicity, religion, and economic status - should have equal opportunities, financial access, and mobility.</p><p>Global cooperation is required&nbsp;to ensure that discrimination is eradicated everywhere across all social, economic, and political domains.</p>",
+        "body": "<p><strong>Reduce inequality within and among countries</strong></p><p>In order to ensure continuous development and lasting prosperity, everyone – regardless of gender, race, ethnicity, religion, and economic status – should have equal opportunities, financial access, and mobility.</p><p>Global cooperation is required&nbsp;to ensure that discrimination is eradicated everywhere across all social, economic, and political domains.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/bd8fad9bf286a645d322e46f156ec46f6274a3ca.png",
@@ -1392,7 +1392,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Strengthen the means of implementation and revitalize the global partnership for sustainable development</strong></p><p>Sustainable development can only be realised if we work together for a better future. This requires extensive global partnerships and cooperation between all.</p><p>These global partnerships are required to ensure that no one gets left behind.</p>",
+        "body": "<p><strong>Strengthen the means of implementation and revitalise the global partnership for sustainable development</strong></p><p>Sustainable development can only be realised if we work together for a better future. This requires extensive global partnerships and cooperation between all.</p><p>These global partnerships are required to ensure that no one gets left behind.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/1a1ca9ce98acb162e941afb42d48dcaaedb62eb0.png",
@@ -2018,7 +2018,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
+    "title": "Goal 1: End poverty in all its forms everywhere",
     "displayTitle": "",
     "body": "",
     "_id": "6230794e80ed2f06a27c3868",
@@ -2031,7 +2031,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Click on any of the targets below to find out more.",
@@ -2043,7 +2043,7 @@
     "_items": [
       {
         "title": "",
-        "body": "<p><strong>End poverty in all its forms everywhere</strong></p><p>Ending poverty in all its forms is one of the greatest challenges faced by society because it is affected by many other factors. Covid-19 has led to an extreme rise in poverty, pushing an additional <a href=\"https://sdgs.un.org/goals/goal1\">119 to 124 million people</a> back into extreme poverty.</p><p>This goal has 7 targets.</p>",
+        "body": "<p><strong>End poverty in all its forms everywhere</strong></p><p>Ending poverty in all its forms is one of the greatest challenges faced by society because it is affected by many other factors. Covid-19 has led to an extreme rise in poverty, pushing an additional <a href=\"https://sdgs.un.org/goals/goal1\" target=\"_blank\">119 to 124 million people</a> back into extreme poverty.</p><p>This goal has 7 targets.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/df7a2527d939d7e3b13d6ffb05accab58a12071b.png",
@@ -2145,7 +2145,7 @@
       },
       {
         "title": "",
-        "body": "<p><strong>Target 1.A: Mobilise resources to implement policies to end poverty</strong></p><p>Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions.</p><p><sub>(Also known as Target 1.6)</sub></p>",
+        "body": "<p><strong>Target 1.A: Mobilise resources to implement policies to end poverty</strong></p><p>Ensure significant mobilisation of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions.</p><p><sub>(Also known as Target 1.6)</sub></p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/05d5bd44c2e86d796ce3eaf313ff8030b5ce6ecc.png",
@@ -2913,7 +2913,7 @@
     "_items": [
       {
         "title": "",
-        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity and MSW is collected in three or more separate fractions.</p>",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200m distance with basic frequency and regularity and MSW is collected in three or more separate fractions.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/e90e880d1fe68030df4d40a031cbacdb45cdda08.png",
@@ -2930,7 +2930,7 @@
       },
       {
         "title": "",
-        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity and MSW is collected in a minimum of two, separate fractions (eg. wet and dry fractions).</p>",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200m distance with basic frequency and regularity and MSW is collected in a minimum of two&nbsp;separate fractions (for example, wet and dry fractions).</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/9794b4a6ac980d3446b8a2189882a08c4c368fc9.png",
@@ -2947,7 +2947,7 @@
       },
       {
         "title": "",
-        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200 m distance with basic frequency and regularity.</p>",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200m distance with basic frequency and regularity.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/5939fc7b386aaf34a3d823476701f1abc2ae732e.png",
@@ -2964,7 +2964,7 @@
       },
       {
         "title": "",
-        "body": "<p>Receiving door-to-door MSW collection service or or designated collection point within 200 m without basic frequency and regularity, or having designated collection point in further than 200 m distance.</p>",
+        "body": "<p>Receiving door-to-door MSW collection service or designated collection point within 200m without basic frequency and regularity, or having designated collection point in further than 200m distance.</p>",
         "_classes": "",
         "_graphic": {
           "src": "course/en/assets/c14cd294f0b410cd3b46d9d5bd2d394cb224610c.png",
