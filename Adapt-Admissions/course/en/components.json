@@ -507,8 +507,8 @@
     "instruction": "A tree exploring the classification of Municipal Solid Waste (MSW) collection services.",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6a2e53ca03090317963cd36d6b3769b7c4f53fa9.gif",
-      "small": "course/en/assets/6a2e53ca03090317963cd36d6b3769b7c4f53fa9.gif",
+      "large": "course/en/assets/b7dda929dfc2f98f04392cf6c6555d44305ccbac.gif",
+      "small": "course/en/assets/b7dda929dfc2f98f04392cf6c6555d44305ccbac.gif",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -733,7 +733,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/M5IVGAcQ4SQ",
+      "source": "https://youtu.be/BG5frsy9v3o",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -1728,7 +1728,7 @@
           "src": "course/en/assets/4e824fc36afc8033d5f94383d5ef7d5084c0b2c0.png"
         },
         "backTitle": "",
-        "backBody": "<p><strong>Boolean operators</strong>&nbsp;are used as conjunctions to combine (or exclude) statements in a boolean expression.</p><p style=\"margin-left:40px\"><strong>AND:</strong>&nbsp;The two arguments are considered in conjunction. Both arguments should be&nbsp;<em>True</em>&nbsp;for the statement to be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>NOT:</strong>&nbsp;Only considers the argument after the operator. The algorithm considers the opposite of the argument.</p><p style=\"margin-left:40px\"><strong>OR:</strong>&nbsp;If either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>&nbsp;the statement will be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement will also be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>XOR:</strong>&nbsp;Only if either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>will the statement be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement is&nbsp;<em>False</em>.</p>"
+        "backBody": "<p><strong>Boolean operators</strong>&nbsp;are used as conjunctions to combine (or exclude) statements in a boolean expression.</p><p style=\"margin-left:40px\"><strong>AND:</strong>&nbsp;The two arguments are considered in conjunction. Both arguments should be&nbsp;<em>True</em>&nbsp;for the statement to be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>NOT:</strong>&nbsp;Only considers the argument after the operator. The algorithm considers the opposite of the argument.</p><p style=\"margin-left:40px\"><strong>OR:</strong>&nbsp;If either of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>&nbsp;the statement will be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement will also be&nbsp;<em>True.</em></p><p style=\"margin-left:40px\"><strong>XOR:</strong>&nbsp;Only if exactly one of the arguments to the left or right of the operator is&nbsp;<em>True,&nbsp;</em>will the statement be&nbsp;<em>True</em>. If both arguments are&nbsp;<em>True</em>, the statement is&nbsp;<em>False</em>.</p>"
       }
     ]
   },

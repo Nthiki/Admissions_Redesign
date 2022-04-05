@@ -1094,16 +1094,6 @@
       }
     ]
   },
-  "6a2e53ca03090317963cd36d6b3769b7c4f53fa9.gif": {
-    "title": "Municipal Solid Waste GIF",
-    "description": "Municipal Solid Waste GIF",
-    "tags": [
-      {
-        "title": "Final",
-        "_id": "623449c0e027b70cf9416108"
-      }
-    ]
-  },
   "9b84e53c786ed060373a16b1b6c7b22e0a934a53.gif": {
     "title": "If Statement GIF Optimised",
     "description": "If Statement GIF Optimised",
@@ -1241,6 +1231,20 @@
       {
         "title": "Final",
         "_id": "623449c0e027b70cf9416108"
+      }
+    ]
+  },
+  "b7dda929dfc2f98f04392cf6c6555d44305ccbac.gif": {
+    "title": "Municipal-Solid-Waste GIF",
+    "description": "Municipal-Solid-Waste GIF",
+    "tags": [
+      {
+        "title": "Final",
+        "_id": "623449c0e027b70cf9416108"
+      },
+      {
+        "title": "Fixed",
+        "_id": "624c52831acf653010d7e0cb"
       }
     ]
   }
